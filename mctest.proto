@@ -1,0 +1,55 @@
+package mctest;
+
+
+// Representation of stories using word tokens:
+
+message AnswerAsWords {
+    repeated string tokens = 1;
+}
+
+message QuestionAsWords {
+    enum Type {
+        ONE = 1;
+        MULTIPLE = 2;
+    }
+    required Type type = 1;
+    repeated string tokens = 2;
+    repeated AnswerAsWords answers = 3;
+}
+
+message StoryAsWords {
+    required string id = 1;
+    required string description = 2;
+    // Content fields:
+    repeated string passage = 3;
+    repeated QuestionAsWords questions = 4;
+}
+
+
+// Representation of stories using embeddings:
+
+message Vector {
+    repeated double value = 1;
+}
+
+message AnswerAsEmbeddings {
+    repeated Vector tokens = 1;
+}
+
+message QuestionAsEmbeddings {
+    enum Type {
+        ONE = 1;
+        MULTIPLE = 2;
+    }
+    required Type type = 1;
+    repeated Vector tokens = 2;
+    repeated AnswerAsEmbeddings answers = 3;
+}
+
+message StoryAsEmbeddings {
+    required string id = 1;
+    required string description = 2;
+    // Content fields:
+    repeated Vector passage = 3;
+    repeated QuestionAsEmbeddings questions = 4;
+}
