@@ -1,0 +1,1861 @@
+***************************************************
+Story:            mc500.dev.0
+Author:           4247630651
+Qual. score:      90
+Work Time(s):     2621
+Creativity Words: ant,nana,hand,pan,belly,stairway,seesaw,bug,room,sneeze,keeping,sky,papa,turtle,butterfly
+
+One sunny morning, Stewart chose to go to the beach. He knew that a rainstorm was going to arrive on Saturday and wanted to enjoy some sun before it arrived. 
+
+Stewart laid on his belly and began reading his newspaper. As he was enjoying the sun and the newspaper, he saw a bug crawl across his blanket. At first Stewart thought it was an ant, but the bug was moving too slowly to be an ant. As Stewart leaned in for a closer look, the bug cried out, "Excuse me, sir! Can you help me?" Stewart was surprised and jumped to his feet. "You can talk!" he shouted. "Yes," said the bug. "Please help me! As you might know, there is a rainstorm coming into town. Unfortunately, I do not have a place to call home. I need to find somewhere to sleep before the rain washes me away!" Stewart felt sad. "Gee," he cried. "That sounds terrible!"
+
+Stewart thought about the problem. "Perhaps you can stay at my house," he said. The bug jumped for joy and said, "Oh, that would be wonderful!" The two traveled back to Stewart's house and the bug found a soft spot to sleep.
+
+The next day, the sky had darkened and rain clouds appeared all over town. Just as the news had said, a rainstorm had arrived. When Stewart woke up, he looked for the bug but could not find him. Then, he saw something flying around his house. "Thank you for letting me sleep here last night," said the butterfly. It was the bug! "I knew I could not change into a butterfly if I was out in the rain. I won't forget your kindness." After speaking, the butterfly flew away. Stewart stood in his doorway and shouted, "Goodbye!"
+
+1: multiple: If the rain arrived on Saturday, what day did Stewart go to the beach?
+*A) Friday
+ B) Monday
+ C) Sunday
+ D) Wednesday
+
+2: one: What was Stewart doing at the beach?
+*A) reading a newspaper
+ B) looking for bugs
+ C) swimming
+ D) sleeping on his blanket
+
+3: one: What did the bug want from Stewart?
+ A) food
+ B) to read Stewart's newspaper
+*C) a place to sleep
+ D) a new friend
+
+4: multiple: What was the bug that Stewart found at the beach?
+ A) beetle
+*B) caterpillar
+ C) ant
+ D) butterfly
+
+
+***************************************************
+Story:            mc500.dev.1
+Author:           1818039030
+Qual. score:      95
+Work Time(s):     2815
+Creativity Words: arm,finger,ground,helping,mommy,dug,call,costume,heaven,must,boot,dropping,pan,lamp,sip
+
+My mommy has a really cool job! She makes costumes for movie stars. She works in the attic of our house, so I get to see her work all the time. I watch every movie I can, and try to learn all of the different costumes by heart. Mommy says if I work hard and keep up my practice, one day I'll get to to make costumes for movie stars too! That job sounds like heaven.
+
+One day I was in the attic, helping Mommy make a boot for a costume.  They were covered in little beads, and mom had to sew them on. She kept dropping the needles on the ground. Then I was helping by picking them up. I was also helping by moving the lamp around so Mommy could see the boot better. 
+
+"Ouch!" I said. "I accidentally stuck my finger with the needle!"
+
+My mommy looked at my finger, and gave it a kiss.  "Welcome to the life of a costumer!"
+
+1: multiple: What does Mommy do as a job?
+ A) filming movies
+*B) making costumes for movie stars
+ C) watching movies
+ D) making boots
+
+2: multiple: What was special about the boot?
+*A) It was covered in beads
+ B) it was brown
+ C) it had a picture of a kiss
+ D) it had a picture of a lamp
+
+3: one: Where does Mommy work?
+*A) in the attic
+ B) in a costume shop
+ C) at the movies
+ D) at the shoe store
+
+4: multiple: Where did the needle the narrator stuck herself with come from?
+ A) It was next to the lamp
+ B) It was in the boot
+*C) Mommy was using it to make the boot
+ D) It was hidden on the ground
+
+
+***************************************************
+Story:            mc500.dev.2
+Author:           2743437995
+Qual. score:      90
+Work Time(s):     1485
+Creativity Words: puppy,sled,third,slide,wetting,orange,bib,silence,twirl,kid,liar,sand,stay,noodle,digging
+
+Marsha loves playing with her noodle friend.  She had it for a long time so it is now a dark brown color.  When her mom first made it, it was white.  The night she met her noodle friend was spaghetti night.  Marsha's favorite dinner was spaghetti, which happened to be every Tuesday night.  On one Tuesday, a piece of spaghetti fell on the kitchen floor.  To Marsha, it looked like a stick man so she kept him.  She named her new noodle friend Joey and took him everywhere she went.  Sometimes Joey gets a little dried out so Marsha's mom told her to soak him in water every few days.  There were a couple times that the family dog, Mika, has tried to take Joey from Marsha and eat him!  So from now on, Marsha takes extra special care to make sure Joey is safe and sound at all times.  During the day she keeps him in a plastic bag in her pocket.  At night, she puts him under her pillow.  She loves Joey and wants to always be friends with him.
+
+1: one: What is Marsha's noodle made out of?
+*A) Spaghetti
+ B) plastic bag
+ C) mom
+ D) Macaroni
+
+2: one: Who is Joey?
+ A) Marsha's dog
+*B) Marsha's friend
+ C) Marsha's mom
+ D) Marsha's dad
+
+3: multiple: Why is Tuesday night special for Marsha?
+ A) Every Tuesday Marsha meets a new friend
+*B) It's spaghetti night and it's Marsha's favorite dinner
+ C) It's Macaroni and Cheese night and it's Marsha's favorite dinner
+ D) Marsha doesn't go to school on Tuesday
+
+4: multiple: Where did Marsha first meet Joey and what day was it
+*A) On the kitchen floor on Tuesday
+ B) In a plastic bag on Tuesday
+ C) Under her pillow on Friday
+ D) In her backyard on Monday
+
+
+***************************************************
+Story:            mc500.dev.3
+Author:           3401422330
+Qual. score:      85
+Work Time(s):     816
+Creativity Words: elf,fridge,stay,short,stinker,girl,pan,stick,real,feed,queen,head,shoe,pie,soap
+
+There once lived an elf who was a stinker.  He was real mean to everyone around.  He'd throw pies at girls.  He'd put soap in the fridge.  He'd give the queen shorts as birthday presents.  No one liked the elf.  One day he was planning a way to make someone feel sad.  He thought to draw on someone's head.  He went looking for someone who was asleep so he could draw on them.  He found a boy laying under a tree.  He walked right up to him with his magic marker.  He drew a giant house on the boy's forehead.  The boy woke up and pushed the elf off of him.  The boy knew the elf had done something bad to him so he ran all the way home without looking back.  The elf felt real good about himself.  He had mad the boy sad!  He skipped off and took a swim in a nearby pond.  The boy never talked to the elf again after that.  The elf didn't care and went on annoying people.
+
+1: multiple: Why did the elf go swimming in a pond?
+ A) He put soap in the fridge.
+ B) He was nice to everyone.
+*C) He had annoyed the boy and made him sad.
+ D) He had celebrated the queen's birthday.
+
+2: one: What did the elf to do girls?
+ A) He at their soap.
+ B) He pushed them in ponds.
+*C) He threw pies at them.
+ D) He woke them up.
+
+3: one: What did the elf do as he went to the pond?
+*A) skipped
+ B) layed under a tree
+ C) drew on someone's face
+ D) slept
+
+4: multiple: What did the elf do to the boy?
+ A) He gave him shorts for his birthday.
+ B) He gave him soap.
+*C) He drew a house on his forehead with a magic marker as he was sleeping.
+ D) He swam with the boy.
+
+
+***************************************************
+Story:            mc500.dev.4
+Author:           4075854844
+Qual. score:      90
+Work Time(s):     715
+Creativity Words: behind,table,booger,forward,hop,fridge,move,refrigerator,start,leg,push,dropping,wind,dresser,doll
+
+Jane's doll, Samantha, was a magical doll. Jane kept Samantha hidden from her friends, even Julie, who was her best friend. Jane didn't want all the other girls from school, like Wanda and Ruth, to find out that she had a magical doll. Samantha could do things other dolls couldn't. Jane would whisper in her ear a secret word, and all of a sudden Samantha would come to life, hopping around, running all over. But Samantha did more than run, she could talk. Jane told Samantha everything, and Samantha understood. One day, Jane was naughty and lied to her mother. Jane's mother put Samantha on top of the refrigerator where Jane could not get to her. Jane was very sad. The one person she told everything to was out of her reach. The next day, Jane had one of the worst days of her life. She needed to tell someone, but Julie wasn't around. She needed Samantha. She had no ladder, chair, or stool to reach her. Julie moved the kitchen table forward towards the refrigerator, and hopped on top. She started to climb up to reach for Samantha, and grabbed her quickly. She came down, dropping Samantha on the floor, and broke Samantha. Jane whispered the secret word, but Samantha didn't awake. Samantha's powers were gone. She couldn't walk, run, talk, or listen. Jane hurt her the one person she could trust the most. Then, Samantha moved, looked at Jane, and a tear came from her eye. Samantha's eyes closed, and she was without life. She cried no more.
+
+1: multiple: How did Jane get to Samantha?
+*A) Kitchen table
+ B) stool
+ C) chair
+ D) ladder
+
+2: one: What was the name of Jane's doll?
+*A) Samantha
+ B) Ruth
+ C) Wanda
+ D) Julie
+
+3: multiple: What did Samantha do after Jane dropped her?
+*A) Cry
+ B) Talk
+ C) Run
+ D) Listen
+
+4: one: Who did Jane lie to?
+*A) Her Mother
+ B) Ruth
+ C) Wanda
+ D) Samantha
+
+
+***************************************************
+Story:            mc500.dev.5
+Author:           3092661071
+Qual. score:      95
+Work Time(s):     971
+Creativity Words: puppy,eraser,tummy,wolf,lamb,stick,sugar,boy,moon,sitting,elephant,hill,pear,switch,washing
+
+It was a cold day when John made up his mind to go outside and check the fence.  There had been things missing from the back yard, and he was starting to think there was a criminal at work.  He put on his coat and started walking through the snow back to the long metal fence at the back of the yard.  It seemed like a lot longer walk than last summer when it was hot.
+
+Sure enough, he found how the crook had gotten in.  A tree, weighted down by the snow, had fallen on the fence on a windy day and broken a section.  He got out his toolbox, and with a tool, cut some sections of wire.  He used the wires to fix the fence.
+
+Now, it was time to catch the crook.  Sure enough, he saw tracks heading to and from the fence.  But they weren't a crook's footprints.  It had been a raccoon that had been stealing things from his yard.
+
+1: one: What broke the fence?
+*A) A tree.
+ B) A raccoon.
+ C) John.
+ D) The things that were missing from the back yard.
+
+2: one: Who was the criminal?
+ A) A fox.
+ B) A crook.
+*C) A raccoon.
+ D) One of John's neighbors.
+
+3: multiple: Why did John need a tool?
+ A) To scare away the raccoon.
+*B) To fix the fence.
+ C) To fix his snow shovel.
+ D) To tear down the fence.
+
+4: multiple: What was the weather like when John fixed the fence?
+ A) Hot
+ B) Windy
+*C) Cold
+ D) Rainy
+
+
+***************************************************
+Story:            mc500.dev.6
+Author:           3960989957
+Qual. score:      90
+Work Time(s):     1068
+Creativity Words: trouble,moo,carrot,hamster,thunder,bible,outside,street,human,tricycle,coke,danger,ice,pee,drink
+
+I am going to get a hamster in a few weeks, or maybe a month! I have been waiting for a hamster for years, so I don't want to wait another day! She's going to have a big home with lots of paper towel rolls to eat, or even sleep in. My little hamster is going to bite me in the beginning, as hamsters are nervous, but we're going to end up being best friends. She's going to sit on my shoulder as I do the dishes or do my homework. When I'm reading my favorite book, sleeping, or when I'm showering, my hamster needs to go back to her home. I think that she is going to pee without warning and at the worst times, I am going to scratch her little belly and love her all the more when she pushes carrots into her mouth. I am sure that my little hamster is going to get into a lot more trouble, too. Maybe she'll be scared of thunder and try to run away. Or maybe she'll be so curious about going outside to the street that she might get hurt.  I do not care about the amount of trouble that my little hamster gets into I'll always make sure she has water to drink, food to eat, and love from my heart.
+
+1: one: When am I going to get a hamster?
+ A) Today
+ B) In a day
+*C) In a few weeks, or maybe a month
+ D) In a month or maybe a year
+
+2: multiple: What does my hamster need to be happy?
+ A) Love from my heart, a big home, cookies, and another home.
+*B) A big home, water, food, and love from my heart.
+ C) A tiny home, Coke, food, and love from my heart.
+ D) Water, food, love from my heart, and a tiny home.
+
+3: one: When is my hamster sitting on my shoulder?
+ A) When I'm reading my favorite book or sleeping.
+*B) When I'm doing the dishes or my homework.
+ C) When I'm sleeping or doing the dishes
+ D) When I'm taking a shower or eating.
+
+4: multiple: What'll my hamster do that is bad?
+ A) Bite me, run away, eat candy, try to go outside.
+ B) Run away, play a lot, eat too much, try to go outside.
+*C) Bite me, pee on me, run away, try to go outside.
+ D) Try to go outside, pee on me, bite me, sleep too much.
+
+
+***************************************************
+Story:            mc500.dev.7
+Author:           1102243235
+Qual. score:      90
+Work Time(s):     1619
+Creativity Words: sneeze,lift,fold,trip,daddy,rock,standing,fingering,hurry,milk,switch,start,skin,aunt,smash
+
+Jenny was standing on a rock.  Suddenly, she had to sneeze.  After she sneezed, she walked away.  She finally got to the park and saw her daddy.  Her daddy gave her some milk.  Jenny drank the milk in a big hurry.  She loved milk.  She walked over and turned a switch.  She walked to the lake.  Jenny was in a big hurry and went really fast.  She got to the lake and sat down.  Jenny began thinking.  Jenny wanted to go on a trip to Florida.  Jenny did not want to go someplace cold.  Jenny did not want to go to the moon.  Jenny did not want to go to France.  Jenny stood up to fold her towel.  She never folded her shirts or pants.  Jenny would start her art for her aunt in a few hours.  She knew she would use a lot of time making that art.  Her aunt would love the art.
+
+1: one: Where did Jenny want to go on a trip to?
+ A) the moon
+ B) France
+ C) someplace cold
+*D) Florida
+
+2: multiple: Where was Jenny when her daddy gave her milk?
+*A) The park
+ B) Standing on a rock
+ C) France
+ D) the lake
+
+3: multiple: Where was Jenny when she had to sneeze?
+*A) Standing on a rock
+ B) France
+ C) Florida
+ D) the park
+
+4: one: What did Jenny fold?
+*A) towel
+ B) rock
+ C) shirt
+ D) pants
+
+
+***************************************************
+Story:            mc500.dev.8
+Author:           1102243235
+Qual. score:      90
+Work Time(s):     5221
+Creativity Words: turkey,throw,look,cake,forward,trashcan,block,turtle,toss,dress,maybe,coming,use,girl,fall
+
+Jen put on her favorite dress.  She liked it because it had cats on it.  She was very excited about her birthday cake.  Maybe the cake would have a turtle on it.  Jen was going to have turkey.  She had no gravy, so she had chicken for dinner instead.  After eating the chicken, she remembered she was late for the dance!  She ran up the stairs.  She put on a coat and ran out the door.  She walked past some ice cream.  She did not have time to stop and eat any of the ice cream.  She walked past some sprinkles.  She did not have time to eat the sprinkles.  Jen walked past the yogurt.  She did not have time to get the yogurt.  Jen got to where she had to go.  Soon after, she turned around and started the long walk back home.  She got home at last.  She saw her huge cake.  It had chocolate on it.  Jen was very happy.  She was ready to enjoy the cake.
+
+1: one: What was Jen late for?
+ A) dinner
+*B) the dance
+ C) cake
+ D) ice cream
+
+2: multiple: Why didn't Jen have turkey?
+ A) She was very excited about her birthday cake.
+*B) She had no gravy.
+ C) She saw some ice cream.
+ D) She remembered she was late.
+
+3: multiple: What was on Jen's dress?
+ A) turtle
+ B) ice cream
+ C) cake
+*D) cats
+
+4: multiple: What was on the cake?
+ A) yogurt
+ B) sprinkles
+*C) chocolate
+ D) ice cream
+
+
+***************************************************
+Story:            mc500.dev.9
+Author:           1485785727
+Qual. score:      80
+Work Time(s):     601
+Creativity Words: son,hiding,feathering,not,poke,turkey,washing,straw,horn,shoulder,leg,beach,vanilla,potato,bye
+
+Today is Tommy's birthday! Everyone is getting ready for his great birthday party. He's been waiting all week for this day. His friends start to arrive at his house. All he wants is a new bike and the time to open presents is getting closer. After cake and games, his father yells, "Time for presents". One after another, he sees they are all great presents, fire trucks, coloring books, toys, but there is no bike. Tommy starts to get upset when he sees that he opened all his presents and he still has no bike. But right then he sees his mother wheeling a bike through the kitchen into the living room where we are. He jumps in the air with all the excitement. He actually got it! He then runs outside and rides his new bike down the street.
+
+1: one: why was he getting presents?
+ A) christmas
+ B) his mother's birthday
+*C) his birthday
+ D) he won the games
+
+2: multiple: who brings the bike out?
+ A) father
+ B) grandmother
+ C) friends
+*D) mother
+
+3: one: where did he ride the bike?
+*A) down the street
+ B) living room
+ C) garage
+ D) in the kitchen
+
+4: multiple: what does he want more than anything?
+*A) A bike
+ B) coloring book
+ C) a car
+ D) toys
+
+
+***************************************************
+Story:            mc500.dev.10
+Author:           3555112059
+Qual. score:      95
+Work Time(s):     901
+Creativity Words: thunder,turtle,people,thunder,stand,ox,pain,squirrel,triangle,eyeball,kitten,aunt,seesaw,cracker,telephone
+
+Thunder can move a seesaw. This is very important to know if you ever see what I saw. One day, I was walking home when I saw a squirrel on a seesaw near my house. It was running up and down, and all around, playing by itself. Suddenly, an ox appeared from nowhere. It came up to the squirrel, walked around the seesaw for a bit, then sat down on one end. As you know, an ox is a very big animal, so the seesaw threw the squirrel off and high into the air! The squirrel flew so high that it passed the buildings. It passed the birds, it passed the planes and stopped in the clouds. When it was there, it made friends with the clouds and asked one of the clouds a secret question. The cloud said okay, and sent the squirrel back to the ground. The squirrel fell and fell for a long time. Finally he landed on the seesaw, but the ox didn't move. "Where were you?" the ox asked, "Just talking with a friend," answered the mouse. I was watching and listening to everything, so I stayed, waiting. Soon enough, a loud CLAP of thunder came from the clouds and threw the ox off of the seesaw and far, far away. So, you see, thunder can move a seesaw.
+
+1: multiple: What was the second thing the squirrel passed?
+ A) the buildings
+ B) the clouds
+*C) the birds
+ D) the planes
+
+2: one: Where was the squirrel playing?
+ A) in the clouds
+ B) on an ox
+*C) a seesaw
+ D) at night
+
+3: multiple: What do you think the squirrel said to the clouds?
+ A) make rain for me
+ B) send me to the tops of the buildings
+*C) move the ox from the seesaw
+ D) let me fly like a bird
+
+4: one: What threw the squirrel into the air?
+ A) the building
+ B) the birds
+ C) the cloud
+*D) the ox
+
+
+***************************************************
+Story:            mc500.dev.11
+Author:           2236321953
+Qual. score:      85
+Work Time(s):     4452
+Creativity Words: blanket,dropping,sofa,pocket,duckling,batting,bedtime,sing,age,sun,thank,tummy,oink,go,drink
+
+Pester came running into the room. He came to a fast stop when he saw the dog. He'd seen a dog before, every cat has, and he used to live with a black dog named Henry, but he'd never seen a brown one before. It seemed strange to him, but not as strange as it was to see Linda the brown chicken in the living room last spring. That still confused him. 
+
+He thought he liked this dog, not because of the color, but because it was small. And it was so hairy. It was a like a mop that could run around. He jumped on his favorite chair and looked down as Maggie ran under it. She was kind of cute for a dog, Pester thought to himself. He layed down on the chair and pawed at her as she ran in a circle under it. He tapped her ears as she went by, and waved his tail like a flag trying to get her attention. After a little more of this, Pester curled up in a ball on the chair and took a nap.
+
+1: multiple: What was the dog's name?
+*A) Maggie
+ B) Henry
+ C) Pester
+ D) Linda
+
+2: multiple: What was the cat's name?
+ A) Maggie
+*B) Pester
+ C) Linda
+ D) Henry
+
+3: one: What did Pester think Maggie looked like?
+ A) a chair
+ B) a brown chicken
+ C) a flag
+*D) a mop
+
+4: one: What did Pester wave to get Maggie's attention?
+ A) his paw
+ B) a flag
+*C) his tail
+ D) an ear
+
+
+***************************************************
+Story:            mc500.dev.12
+Author:           3166020428
+Qual. score:      90
+Work Time(s):     1063
+Creativity Words: duck,mess,eye,jump,ear,window,lie,ear,wet,see,afternoon,dinnertime,toast,count,toothpaste
+
+Jimmy swam around the pond. He was a duck. He was wet, but he was a duck and didn't care. He ate some bugs. He saw some worms on the bottom, but wasn't interested in them, or in the bread crumbs, or the hot dog the boy had dropped. He kept on swimming and swimming. He was a mess. After he had eaten his food, it was afternoon. The sun was setting, and Jimmy wanted to rest in the sun, and sleep. He found a nice place to sit, and began to rest. Falling asleep quickly, he slept for a few hours. When he woke up it was dark outside. He had missed dinnertime, but there were always those worms at the bottom of the pond. Jimmy ate quickly, and was soon ready to swim more. The pond was small, not a lake, or a river or a stream. He swam around for a little longer, and soon it was ready for bed in the nest, where he slept with his family Billy, Susie, and Doug. The other animals were sleeping as well, the dog and the cat on the porch. The cow was sleeping in the barn. And last the kittens in their box. Jimmy was ready for bed, it had been a long day, and the next day was going to be the same. But Jimmy did not care. He loved being a duck. Jimmy was one happy duck.
+
+1: multiple: What did Jimmy eat?
+ A) Hot Dog
+*B) Bugs
+ C) Worms
+ D) Bread Crumbs
+
+2: one: Where did Jimmy swim?
+ A) Lake
+ B) Stream
+*C) Pond
+ D) River
+
+3: multiple: Where did Jimmy sleep?
+ A) Barn
+ B) Box
+*C) Nest
+ D) Porch
+
+4: multiple: What was the name of the duck?
+ A) Doug
+ B) Susie
+ C) Billy
+*D) Jimmy
+
+
+***************************************************
+Story:            mc500.dev.13
+Author:           1327361969
+Qual. score:      95
+Work Time(s):     533
+Creativity Words: rock,boy,mitten,brown,moo,bicycle,whisper,treat,first,hair,lie,bathroom,why,get,dropping
+
+Once upon a time there was a little boy who had a rock. The rock was his favorite toy. He would throw his rock at trees, or roll his rock down hills. Sometimes he would stand at the river shore, dropping his rock in the water. He thought it was great fun to listen to the rock splash.
+
+One day, the little boy met a brown cow. "Moo!" said the cow.
+
+"Hello," said the boy. "Would you like to see my rock?"
+
+The boy held out his rock for the cow to see. The cow looked at it. Then it picked it up in its mouth.
+
+"Moo," said the cow.
+
+"Hey," the boy said. "Give me back my rock!"
+
+The boy tried to pull open the cow's mouth. Then he tried sticking his fingers in the cow's nose, so it would open its mouth to breathe. Then he tried tickling the cow, but it wouldn't open its mouth.
+
+"Moo," it said. Then it swallowed the rock, and the little boy went home and cried.
+
+1: multiple: What did the little boy not do with his rock?
+ A) roll it down the hill.
+*B) eat it.
+ C) throw it at trees.
+ D) throw it in the river.
+
+2: multiple: How many times did the cow moo in the story?
+ A) four
+ B) two
+*C) three
+ D) one
+
+3: one: What did the boy do when he lost his rock?
+ A) look in the river
+ B) throw things at trees
+*C) go home and cry
+ D) roll down a hill
+
+4: one: What happened to the rock?
+ A) It got stuck in a tree.
+ B) The boy ate it.
+*C) The cow ate it.
+ D) It fell in the river.
+
+
+***************************************************
+Story:            mc500.dev.14
+Author:           911586927
+Qual. score:      100
+Work Time(s):     8905
+Creativity Words: blue,pink,door,bird,do,boot,noodle,mean,tiger,picture,move,brown,name,tree,present
+
+Tammy was a purple tiger.  She was friends with Bobby the blue bird.  They were hungry so they went to the store together.  At the store they saw some friends.  They saw Pat the pink panther. They also saw Roger the red rabbit.  Pat bought potatoes and eggs.  Roger bought carrots and celery.  Tammy bought some salad.  Tammy also bought a pizza.  Bobby bought seeds.  They all wanted to eat dinner.  They went back to Tammy's house to have supper.  Tammy ate salad and seeds.  Roger ate carrots and celery.  Bobby ate potatoes.  Pat ate eggs and carrots.  Tammy was still hungry, so she ate some pizza too.  They were all very full.  They took a nap.  After they woke up they played some games.  Everyone had fun at Tammy's house.  It got late and everyone went home.  Tammy was pleased with how it turned out.
+
+1: multiple: Which friends did Tammy see at the store?
+*A) Pat and Roger
+ B) Roger and Bobby
+ C) Roger and Pat
+ D) Bobby and Pat
+
+2: one: What color was Bobby?
+ A) Pink
+ B) Red
+ C) Purple
+*D) Blue
+
+3: one: What did Pat buy at the store?
+*A) Potatoes and eggs
+ B) Pizza
+ C) Salad
+ D) Celery and carrots
+
+4: multiple: What did Tammy eat for supper?
+ A) Potatoes and eggs
+*B) Salad seeds and pizza
+ C) Pizza and celery
+ D) Carrots and potatoes
+
+
+***************************************************
+Story:            mc500.dev.15
+Author:           2194184977
+Qual. score:      90
+Work Time(s):     1327
+Creativity Words: circle,squirrel,flower,dinnertime,sleeve,closing,mitten,wag,pop,fork,class,shoulder,stick,block,yogurt
+
+One day Mary took a walk to the park. The park was very close to her house. One her way to the park she passed her friend Kim's house. Mary stopped by and asked if Kim wanted to play. Kim said yes. Mary and Kim walked together to the park. John's house was three houses down. Mary and Kim stopped by to ask John if he wanted to play at the park. John said no. He was afraid of being chased by a squirrel. Mary worried that John didn't like her, but John thought she was a good friend. So Mary and Kim went to the park to play. They loved the park. They loved the flowers, and the swings! Soon it was dinnertime and the girls went home. What a lovely day at the park.
+
+1: one: Why did John say he didn't want to go to the park?
+ A) he doesn't like the park
+*B) he was afraid of being chased by a squirrel
+ C) he doesn't like Mary
+ D) he did want to go to the park
+
+2: multiple: How many friend's houses does Mary pass on her way to the park?
+ A) one; Kim's
+ B) one; John's
+*C) two; Kim's and John's
+ D) None
+
+3: multiple: Who did Mary play with at the park?
+*A) Kim
+ B) She played alone
+ C) John
+ D) Kim and John
+
+4: one: What did Mary and Kim love about the park?
+ A) only the swings
+ B) the squirrels
+ C) only the flowers
+*D) the flowers and the swings!
+
+
+***************************************************
+Story:            mc500.dev.16
+Author:           6191595
+Qual. score:      95
+Work Time(s):     675
+Creativity Words: up,kite,fourth,stick,couch,frosting,river,nap,wish,heading,knock,marshmallow,sneeze,word,rule
+
+Johnny and his class were looking forward to a fun day in art class. The teacher gave the class paint, brushes and other items to use to make their drawings. Johnny's friend Kevin used a straw to blow paint on his paper. It looked very cool. Lisa used markers to make a picture of her and her dog. Lisa has several pets, but her favorite one is her dog, Ben. Tony used a potato to make stars. He then put the potato into different colors of paint and made a nice pattern. Johnny used feathers to make his picture. When they had finished, the class chose which picture was the best. Johnny got second place and was very excited. Then it was time for lunch and the class had a party. They had hamburgers with ketchup and had cake for dessert. It was a very fun day for the whole class. They all went home tired and happy. Johnny took a nap when he went home.
+
+1: multiple: Who made a picture of her favorite pet??
+*A) Lisa made a picture of her and her dog.
+ B) Kevin drew a picture of his bird.
+ C) Tony drew his cat.
+ D) Lisa made a picture of her and her cat.
+
+2: one: What did the class do after they made their pictures?
+ A) They went home.
+ B) They took a nap.
+*C) They had lunch and a party.
+ D) They had recess.
+
+3: one: What did Johnny use to make his picture?
+ A) He used ketchup to make his picture.
+ B) Johnny used a potato.
+ C) Johnny made his picture with markers.
+*D) Johnny used feathers to make his picture.
+
+4: multiple: Did the class have cake for dessert after lunch?
+ A) No, they had ice cream.
+*B) Yes, they had hamburgers with ketchup and cake for dessert.
+ C) No, they had cookies.
+ D) No, they only had hamburgers.
+
+
+***************************************************
+Story:            mc500.dev.17
+Author:           3316143479
+Qual. score:      90
+Work Time(s):     963
+Creativity Words: street,mouth,sound,tape,roar,bull,coke,ear,neck,meat,playground,river,shut,papa,bench
+
+There once was a guy named Kevin and girl named Erin.  They really liked spending time together.  One day, Kevin traveled from his home in the United States of America to Erin's house in England.  They then thought to take a sudden trip around the world.  They first traveled by plane around Europe, where they saw many different people and sights.  They then took a boat to Africa and Asia, where they went on a trip through the mountains.  Later in the month, they traveled to China by train and were allowed to see how different life was over there.  Next they took another plane to Australia, where they had a lot of fun seeing kangaroos and a different type of English speaking people.  After spending a week in Australia, Kevin and Erin took a really long plane ride to North America, where they drove across the land.  They saw everything from the mountains to forests.  They even got to visit the beach!  Because they had so much fun, Kevin returned home with Erin to England where they hung out and spent the next few days and months talking about all of the neat things they saw and did on their trip.
+
+1: multiple: Where did Kevin and Erin NOT visit?
+ A) Australia
+ B) Europe
+ C) North America
+*D) South America
+
+2: multiple: What did Kevin and Erin NOT take to travel?
+*A) Bus
+ B) Train
+ C) Boat
+ D) Plane
+
+3: multiple: What did Kevin and Erin NOT see in North America?
+*A) Farmlands
+ B) Beach
+ C) Forest
+ D) Mountains
+
+4: one: Which of these places did Kevin and Erin visit first
+ A) Australia
+ B) North America
+ C) Africa
+*D) Europe
+
+
+***************************************************
+Story:            mc500.dev.18
+Author:           2308356689
+Qual. score:      80
+Work Time(s):     3208
+Creativity Words: book,fire,spank,circus,pencil,plant,mirror,wind,stair,stupid,playground,turkey,library,hello,sitting
+
+Tommy and Suzy (brother and sister) went to the playground one afternoon with their mom and dad, Jan and Dean. They were playing a game of tag and having the best time ever running after each other and laughing. They liked to play tag instead of building sandcastles or swinging. They liked tag because they liked to run. They like to play hopscotch or jump rope but that day they wanted to play tag. Other games aren't as fun. They met Tony and Ally (who are best friends) and invited them to play tag too. Tony and Ally like to play other games like hopscotch or jump rope but that day they joined the game of tag. Making new friends is important. Tony and Ally would rather make friends than play their favorite games.
+
+1: multiple: What would Tony and Ally rather do?
+*A) Make friends
+ B) Play hopscotch
+ C) Swing
+ D) Run
+
+2: one: Why do Tommy and Suzy like to play tag?
+ A) The like making friends
+ B) They'd rather jump rope
+*C) They like running.
+ D) They prefer hopscotch
+
+3: one: What is the name of the Dad
+ A) Tony
+ B) Suzy
+*C) Dean
+ D) Tommy
+
+4: multiple: What games do Tommy and Suzy not like to play?
+ A) tag
+ B) hopscotch
+*C) building sandcastles and swinging
+ D) jump rope
+
+
+***************************************************
+Story:            mc500.dev.19
+Author:           3525600876
+Qual. score:      90
+Work Time(s):     2435
+Creativity Words: glove,name,helping,blue,middle,penny,turkey,try,voice,coffee,tiger,light,princess,mitten,standing
+
+Princess Ellen wanted nothing more than to be a singer when she grew up. She had a beautiful voice and everyone who heard it said she was the best singer in the land. But her uncle believed singing would keep her from her job as princess, so he found a witch and paid her to steal Princess Ellen's voice. The witch made a spell which gave Ellen the witch's voice. The spell also gave Ellen's voice to the witch. The witch went on to become famous as a singer, and Ellen grew up to be Queen. One day Queen Ellen heard of a singer who was the best in the land. She went to hear this singer, and was surprised to hear her own voice coming from the woman on stage. When the show was over, Ellen found the singer and gave her a penny.  Ellen told the singer, "You have a magical voice". The witch was so touched by Ellen's kindness, that she gave Ellen her voice back.
+
+1: multiple: Why did the witch give Ellen her voice back?
+ A) Ellen's uncle paid the witch to take back the spell.
+ B) Ellen ordered the witch to give her voice back.
+*C) Ellen gave the witch a penny and told the witch her voice was magical.
+ D) The witch grew tired of singing.
+
+2: one: Who paid the witch to steal Princess Ellen's voice?
+ A) Ellen's mother
+ B) Ellen's sister
+*C) Ellen's Uncle
+ D) The Queen.
+
+3: multiple: What did the spell do?
+*A) Trade Ellen's voice for the witch's.
+ B) Give Ellen a frog's voice
+ C) Make Ellen a queen
+ D) Make Ellen's voice silent
+
+4: one: What did Ellen want to be when she grew up?
+ A) A queen
+*B) A singer
+ C) An uncle
+ D) A witch
+
+
+***************************************************
+Story:            mc500.dev.20
+Author:           3555112059
+Qual. score:      95
+Work Time(s):     1575
+Creativity Words: pink,moon,dug,wiggle,laugh,eye,ketchup,short,dad,behind,ring,cop,chipmunk,line,sofa
+
+One day, a pink moon was looking down at an empty sand land. Although the pink moon could see all the lizards and cacti in the empty sand land, nobody could see the moon! The pink moon felt so lonely. So, the pink moon called on the sun for help. The great sun was very busy high in the sky, for it was his job to shine over the sand land, and it was hard to get his attention. So the moon wiggled closer and closer to the sun every second. The second turned to hours as the pink moon inched toward his friend, slowly moving across the sky. Finally, the sun saw the moon and asked, "Pink moon! What are you doing here? Don't you know the sky is my home during the day? Your time is coming soon enough. Look, I'm falling now toward my bed on the end of the earth..." But the pink moon could not be stopped and kept moving toward the great sun. "But great sun, I become so lonely during the day when your light is so bright the animals in the sand land can't see me. Please let me join your light during the day this once!" By this time, the great sun and pink moon were only inches apart. The great sun said, "Though by day you disappear, I always remember you are here. Come to me now. Stand in front of me, and show the sand land your shine!" So the pink moon inched in front of the great sun. At first, covering part of the sun's circle, then more, then...a complete covering of the sun! The pink moon was shining with the power and light of the sun! All the lizards, cacti and every animal stood still in awe of the daytime pink moon! But at that time, the sun slipped away, saying "Farewell, pink moon. We have to do this again!" And so, every few years, the sun and moon come together to show the pink moon's is always with us, even in the day time .
+
+1: one: What color was the moon?
+ A) cacti
+ B) light
+ C) lizard
+*D) pink
+
+2: multiple: What happened when the moon moved in front of the sun?
+ A) the moon went shopping
+ B) the moon stopped shining
+ C) the moon went home
+*D) The pink moon was shining with the power and light of the sun
+
+3: multiple: Why was the pink moon lonely?
+ A) he wanted to be with the sun
+*B) none of the animals could see him
+ C) he wanted to eat
+ D) he was bored
+
+4: multiple: How long did it take the moon to reach the sun?
+ A) seconds
+ B) days
+*C) hours
+ D) weeks
+
+
+***************************************************
+Story:            mc500.dev.21
+Author:           1789392668
+Qual. score:      100
+Work Time(s):     940
+Creativity Words: glass,door,smash,making,insect,thing,stupid,gum,air,water,butt,button,cracker,biscuit,coke
+
+Three cats named Daisy, Sofia, and Abby wanted to start a band. They put an ad in the newspaper because they needed a drummer. Daisy and Sofia would play guitar and sing. Bass would be played by Abby. A few weeks passed and no one called about the ad. Finally, one afternoon the telephone rang. A deep voice said, "Do you still need a drummer?" Daisy said, "Yes, come by this afternoon." Daisy got the other cats together and they set up their instruments and waited for the drummer to show up. Soon a dog came running up, pulling a set of drums behind him. "You're the drummer?" Sofia hissed. "Scram!" said Abby. But Daisy was more accepting. "C'mon guys, we need a drummer. Just let him play!" she said. "Okay," said Sofia and Abby. They started to jam. "We need to come up with a name," Sofia said, between songs. "How about 'Atomic Death Fish?'" said Abby. "No, too scary," said Sofia. "How about 'Monkeys on Mars?'" said Daisy. "Too goofy," said Sofia. "How about 'Sofia and the No Nos?'" said the drummer. "I love it!" everyone said.
+
+1: multiple: What is the name of the band?
+ A) Monkeys on Mars
+*B) Sofia and the No Nos
+ C) Three Cats and a Dog
+ D) Atomic Death Fish
+
+2: one: What instruments did each of the cats play?
+ A) Sofia played guitar, Daisy played drums, and Abby played Bass.
+ B) Daisy played guitar, Sofia played drums, and Abby played Bass.
+ C) Abby played guitar, Daisy played drums, and Sofia played Bass.
+*D) Daisy and Sofia played guitar and Abby played Bass.
+
+3: one: What kind of animal is the drummer?
+ A) fish
+ B) monkey
+*C) dog
+ D) cat
+
+4: multiple: Which cat was accepting of the dog?
+ A) Sofia and Abby
+ B) Abby
+*C) Daisy
+ D) Sofia
+
+
+***************************************************
+Story:            mc500.dev.22
+Author:           2194184977
+Qual. score:      90
+Work Time(s):     1524
+Creativity Words: ceiling,danger,lunch,maybe,stand,shoulder,liking,lettuce,thanksgiving,ketchup,pain,eraser,plate,bicycle,mirror
+
+Mike wanted to make a cake for his Mom's birthday. His dad was going to help him. Mike had eggs, milk, and flour at his house, but no sugar! Dad told Mike to take his bicycle to the store so he could buy sugar for the cake. On his way to the store, Mike saw his friend, Sally, at the park. He rode over to say hello. Mike and Sally played lots of games at the park. After a long time, Mike saw it was starting to get dark. He needed to hurry if he was going to make it to the store and get home before night time. Mike rode as fast as he could, and made it to the store. The store was really big, but Mike found the sugar really fast. When Mike was on his way to the front of the store to pay for the sugar, he saw a toy he had been wanting for a long time. But Mike only had enough money to pay for the sugar or the toy. Mike didn't know what to do! The cake would taste good and would make his mom happy. But, the toy was so cool! Mike bought the sugar for his mom's cake, because she was always so nice to him. He could always get the toy another time.
+
+
+
+2. What did Mike find at the store that he wanted to buy
+
+1: multiple: Who did Mike play games with at the park?
+*A) Sally
+ B) His Dad
+ C) His dog
+ D) His Mom
+
+2: one: Why was Mike going to make a cake?
+ A) because he wanted to eat cake
+*B) It was Mike's mom's birthday
+ C) He really likes to bake
+ D) It was Mike's birthday
+
+3: one: What did Mike almost buy instead of the sugar?
+ A) A bag of flour
+ B) Flowers for his Mom
+*C) A toy he really wanted
+ D) His favorite candy
+
+4: multiple: Why did Mike want to buy the toy and the sugar?
+*A) the toy was cool, and he needed sugar for the cake
+ B) The toy was for his mom's present, and the sugar was for her cake
+ C) it was the last toy there, and the sugar would taste good
+ D) his dad wanted the toy, and the sugar was for his mom's cake
+
+
+***************************************************
+Story:            mc500.dev.23
+Author:           278394902
+Qual. score:      85
+Work Time(s):     1249
+Creativity Words: roll,feathering,dropping,trashcan,fork,butt,turning,have,helping,angel,beard,cone,scream,read,alligator
+
+The angel alligator was quite the sight!  It loved to scream with all its might!
+
+It loved to roll in mud and sun.  Then it would go for a run.
+
+But why did it run?  Why did it scream?  
+
+It had a fork in its butt!  
+
+It sat in a trashcan.  This was not a smart thing to do!  But he did it, oh yes, oh me, oh you!
+
+The alligator had a beard.  It was a great beard.  But nobody ever talked about his beard.  Why?  Because they would only see the fork in its butt!
+
+But one day, the alligator made a friend.  The friend needed a fork.  How was he to eat his spaghetti without a fork?  
+
+But...I'm not sure a butt fork is the best way to eat spaghetti.
+
+Do you?
+
+1: one: What did the angel alligator have?
+ A) a trashcan
+ B) spaghetti
+ C) a spoon
+*D) a beard
+
+2: one: What did the friend need?
+ A) an alligator
+ B) spaghetti
+ C) a butt
+*D) a fork
+
+3: multiple: What was not a smart thing to do?
+ A) eating spaghetti
+ B) going for a run
+ C) rolling in the mud
+*D) sitting in a trashcan
+
+4: multiple: What did the angel alligator love to do?
+*A) scream and roll
+ B) run and eat
+ C) eat and run
+ D) see and talk
+
+
+***************************************************
+Story:            mc500.dev.24
+Author:           2304230295
+Qual. score:      100
+Work Time(s):     833
+Creativity Words: long,dad,holding,body,belly,park,granddad,duck,trouble,marshmallow,finger,daddy,hot,neck,ketchup
+
+One morning, I woke up and went downstairs for breakfast. I fixed my normal breakfast: hot pickles, marshmallows, and ketchup. First I heat up the pickles on the stove, then I put the marshmallows in the toaster as I pour out my small plate of ketchup. Delicious! I eat it every morning, often with a tall glass of lemonade.
+
+I sat down at the table to eat, and looked out the window at the birds in my yard. Sometimes I see skunks outside, and once I saw a small pot-bellied pig. But today there were only a few flamingos. I opened up the book I was reading, "All About Birds." I had finished the chapter on pigeons, and was moving on to robins.
+
+While putting ketchup on my marshmallows, I felt something tickling my neck. I looked down, and there was a daddy long-legs, climbing up! I had never seen one so close to my face. 
+
+"Er, what's up?" I asked. 
+
+"Not much," he said. "I smelled the hot pickles, and wanted to have a taste."
+
+"Sure, little guy," I said. I put a small piece of pickle on my finger and held it out. While I was doing that, that sneaky daddy-long-legs ran down my arm. He grabbed the rest of my pickle, and ran out the door! And that was the last time I gave a pickle to a spider at breakfast.
+
+1: multiple: What type of birds did I see in my yard?
+ A) Pigeons
+*B) Flamingos
+ C) Pig birds
+ D) Robins
+
+2: multiple: What did the sneaky spider do?
+ A) Poured me some lemonade.
+ B) Put my marshmallow in the toaster.
+*C) Stole my pickle.
+ D) Dumped out my ketchup.
+
+3: multiple: What was tickling my neck?
+ A) A flamingo
+ B) A pig
+*C) A daddy-long-legs.
+ D) A skunk
+
+4: one: What do I heat up on the stove for breakfast?
+ A) ketchup
+*B) pickles
+ C) marshmallows
+ D) lemonade
+
+
+***************************************************
+Story:            mc500.dev.25
+Author:           1753658650
+Qual. score:      85
+Work Time(s):     1684
+Creativity Words: banana,tub,facing,change,farm,cop,purple,helper,bottle,bench,tail,clock,kind,baseball,shoe
+
+Sammy loved playing baseball. He would play every day, even if there was no practice that day! One day, Sammy went to the park with his mom to play catch with his friends, but as he was playing, he tripped over a rock, and his shoe slipped off! His shoe went flying into the air, high up into the sky, and Sammy watched as the shoe fell into old man Mr. Grumpy's yard. 
+What was he going to do? His mom sat on a bench not too far away, reading a book. "Should I tell Mom?" Sammy thought to himself. He thought that maybe he shouldn't, because he might get in trouble. Instead, he was going to climb the fence into Mr. Grumpy's yard!
+"What, are you crazy?" Sammy's friend Billy said when he told him what he was going to do. Billy didn't seem to like the idea. "Mr. Grumpy is a mean old man, and he'll yell at you for sure. I think you need to tell your mom!" With that, Billy ran off to tell Sammy's mom!
+Sammy ran after Billy, trying to get him to stop, but Billy told the whole story before Sammy could get there. After Sammy's mom heard the story, she took Sammy by the hand and said, "Come on, Sammy, let's go get your shoe!" Sammy was worried. What was she going to do?
+Sammy's mom took him straight to mean old Mr. Grumpy's door, and knocked on it. "Oh no!" thought Sammy, "He's going to yell at me!" But the man who opened the door was a nice old man, and he smiled at little Sammy, and let them get his shoe. That's when Sammy learned that it's always better to be honest.
+
+1: multiple: What was the name of the man next door?
+ A) Mr. Jumpy.
+ B) Mr. Lumpy.
+*C) Mr. Grumpy.
+ D) Mr. Wheezy.
+
+2: multiple: When Sammy wondered if he was going to tell his mom, he didn't and...
+*A) Was going to climb the fence.
+ B) Never got his shoe back.
+ C) Ran away.
+ D) Bought another shoe.
+
+3: multiple: Billy said Sammy was crazy and...
+ A) got the shoe for Sammy.
+*B) said that he needed to tell his mom.
+ C) stopped being friends with Sammy.
+ D) climbed the fence.
+
+4: one: What flew into Mr. Grumpy's yard?
+ A) A Fence
+ B) A Bench
+*C) Shoe
+ D) A Book
+
+
+***************************************************
+Story:            mc500.dev.26
+Author:           4240116366
+Qual. score:      90
+Work Time(s):     3117
+Creativity Words: meal,hit,medicine,four,clown,pencil,tie,madder,push,silence,winter,playground,worm,circle,think
+
+Paul woke up to the sun shining in his eyes. He was so excited! Today was the big day for the baseball game and he was very excited! He rolled out of bed and jumped in the shower, whistling a happy song. Downstairs he could hear his baby brother, Mike, crying and he had to giggle to himself. He got out of the shower and pulled on his clothes. He looked at the calendar on his desk and smiled knowing yesterday, Friday, had been the last day of school. "Hi, Mom! No school Monday," he laughed. He gave his baby brother a kiss on the cheek and grabbed a piece of bacon. "Is that all you are eating, Paul? You need to have a good meal before you leave." said mom. "Yes, I am meeting John and Terry at the playground and I am late."  He grabbed his glove and bat and ran outside, right into a mud puddle from last night's rain. He got to the playground and John was wiping his head. "Whew, it is very hot now!" "It is going to be a hot summer since it was so cold this winter. It is hard to believe last month there was snow on the ground." The boys jogged to the playing field and shook hands with the other boys. "This is going to be a great game, the first of the summer." one of the boys said. The game started and everyone had a turn. Paul's team was behind by two points. Terry took his place at the plate. "Batter up!" The pitcher threw the first ball. "STRIKE ONE!" Then the second and crack, the bat hit the ball and it flew through the air. Terry ran to the first base. Next, John hit the ball with the first throw and he ran to first base and Terry stole third base. The third player was Joey, a red headed boy. He was not a very good player and he missed the ball three times. "OUT." He was followed by George and he also made an out. Up came Tiny. He hit the ball and made it to first base, John moved to second and Terry stayed on third. CRACK! HOME RUN! Paul ran around the bases and Terry, John, and Tiny all made it in. Paul saved the game and the day! Paul's team won the first game of the summer!
+
+1: multiple: Why was Paul excited?
+ A) to eat breakfast
+ B) to take a shower
+ C) To see his baby brother
+*D) To play ball
+
+2: multiple: What was the day of the big game?
+ A) Monday
+ B) Friday
+*C) Saturday
+ D) Thursday
+
+3: one: What was the name of the baby brother?
+ A) Paul
+ B) Terry.
+ C) John
+*D) Mike
+
+4: one: Who was first up to hit the ball?
+ A) Paul
+*B) Terry
+ C) Mike
+ D) John
+
+
+***************************************************
+Story:            mc500.dev.27
+Author:           737523232
+Qual. score:      85
+Work Time(s):     4157
+Creativity Words: cutting,small,chew,quiet,booger,toe,yogurt,sand,belly,dog,lamp,refrigerator,window,chocolate,baseball
+
+Nana had a bunch of money.  She had saved money her whole life.  But Nana was afraid of people stealing her money.  She planned to hide it.  First she moved it around in her house and hid it behind a wall.  Then she put her money in the attic.  But she still didn't feel safe about her money.  She was sure someone would find it.  Finally she took it outside and started digging in the ground.  She buried it in the ground so no one would find it.  "It is going be safe here," said Nana.  She was very pleased that she had hidden her money so well.  The next day after breakfast, she went outside to make sure her money was still there.  She stopped at the spot she thought she had buried it and began digging.  After some time she hadn't found it.  She climbed out of the hole and looked around.  She had used a tree as a way to mark the spot.  But she couldn't tell which tree. The wind was blowing and the trees all looked the same! She had used a brown spot on the ground to mark the spot. But she couldn't tell which brown spot it was!  She knew she wasn't lost.  Nana had hidden her money so well that no one could find it, and that included her!
+
+1: multiple: How many different places does Nana hide the money BEFORE she hides it for the final time?
+ A) Four
+ B) Five
+ C) Three
+*D) Two
+
+2: one: Where does Nana finally hide her money?
+ A) A tree
+*B) A hole in the ground she dug
+ C) Her wall
+ D) Her attic
+
+3: multiple: Why couldn't she find her money at the end?
+ A) The wind blew her money away
+ B) Because she hadn't eaten breakfast.
+ C) She got lost.
+*D) Because she couldn't tell which things she used to mark the spot where she hid the money.
+
+4: one: Where was the first place Nana hid her money?
+ A) A tree
+ B) The attic
+*C) The wall
+ D) A hole in the ground.
+
+
+***************************************************
+Story:            mc500.dev.28
+Author:           1327361969
+Qual. score:      95
+Work Time(s):     2040
+Creativity Words: bite,orange,keep,fell,sweet,behind,pasting,feather,puppy,star,turtle,ankle,cat,watch,bicycle
+
+Suzie's cat, Peaches, was missing. She was very scared. Suzie got on her bicycle to look for her. She looked up and down the street for Peaches and called for her, but Peaches did not come. 
+	Suzie went to the lake and found a turtle. "Mr. Turtle," she said. "Have you seen my cat, Peaches?"
+	"No, Suzie," said Mr. Turtle. He was very old, and didn't see very well. "I can barely see my own shell." 
+	"I'm sorry," said Suzie. "But I have to find Peaches. It's almost time for her supper."
+	She went further down the street, and met a puppy. "Hello, puppy," she said. "Have you seen my cat, Peaches?"
+	The puppy was new, and had not met Peaches yet. "I don't know who Peaches is," he said. "But I'll let you know if I meet her."
+	Suzie thanked the puppy and looked a little more before going home. It was dark, and the stars were out. Suzie cried, and wished upon a star. "Please let Peaches come home safe," she wished.
+	The star twinkled, and Suzie heard a meow. It was Peaches' voice! Peaches had been hiding under Suzie's bed all along! Peaches jumped into Suzie's lap, and Suzie hugged her and gave her her dinner, and then they went to bed and fell asleep.
+
+1: multiple: What was the order in which Suzie asked other characters for help?
+*A) first Mr. Turtle, then the puppy, then the star
+ B) first the star, then Mr. Turtle, then the puppy
+ C) first the puppy, then Mr. Turtle, then Peaches
+ D) first Peaches, then the puppy, then Mr. Turtle
+
+2: one: What was the name of Suzie's cat?
+ A) Puppy
+ B) Star
+ C) Turtle
+*D) Peaches
+
+3: one: Where was the cat hiding?
+ A) down the street
+ B) by the lake
+*C) under the bed
+ D) with the puppy
+
+4: multiple: What animal did Suzie not meet in the story?
+ A) a puppy
+*B) rabbit
+ C) a turtle
+ D) a cat
+
+
+***************************************************
+Story:            mc500.dev.29
+Author:           278394902
+Qual. score:      85
+Work Time(s):     2139
+Creativity Words: square,faster,angel,pull,class,wolf,try,crossing,heavy,phone,close,pencil,kite,parent,helping
+
+It was Tuesday.  Tuesday was Square's favorite day.  Wednesday was nice because it was always Spaghetti Night.  Saturday was great because of the morning cartoons.  But Tuesday?  Tuesday was the day it always went to visit its friend Diamond.
+
+It was a beautiful day!  The spring wind was blowing, and the sun was shining.  Square and Diamond went to play by the river.  
+
+They were having a great time.  They swam.  They fished.  They played hide and seek.
+
+Suddenly, the wind picked up.
+
+"Hey, Square!  Would you like to see a trick?"
+
+"Sure Diamond!  What is it?"
+
+Diamond took a string out of its pocket.  Diamond tied it to her, and then she tied it to a tree.
+
+"Watch this!"  Diamond jumped into the wind.  Suddenly, she was flying!  She floated.  She swooped.  She played with the clouds and the birds.  She flew faster.  She flew slower.
+
+At first, Square was amazed.  But slowly, Square started to frown.
+
+Diamond landed in front of her friend.  "What's wrong?"
+
+"That was amazing!  It looks like a lot of fun.  But I am not shaped like a kite.  I can't do those amazing things like you."
+
+Diamond smiled.  "Yes you can, Square!  Stand on your tip-toes!"
+
+So Square did.
+
+"Now, go look at yourself in the river."
+
+Square walked to the river and looked down.  But he did not see a square.  He saw a diamond!
+
+Diamond handed Square the string.  "Now jump!" she said.
+
+Square jumped.  He jumped as high as he could.  Just as he started to fall, the wind blew and picked him up.
+
+He was flying, like Diamond!
+
+He floated.  He swooped.  He played with the clouds and the birds.  He flew faster.  He flew slower.
+
+He soon landed.  The sun was setting, so they said goodbye and made plans to meet again next Tuesday.
+
+It was a beautiful day.
+
+1: multiple: What did Square see in the river?
+*A) He saw a diamond.
+ B) He saw a square.
+ C) He saw a kite.
+ D) He saw a fish.
+
+2: multiple: Why was Square sad?
+ A) He was not a diamond, so he could not swim.
+ B) He didn't have a string, so he could not fish.
+ C) He was scared of flying.
+*D) He was not shaped like a kite, so he could not fly.
+
+3: multiple: What did Square and Diamond do?
+ A) They had a picnic.
+*B) They swam and fished.
+ C) They jumped and danced.
+ D) They flew and laughed.
+
+4: one: What is Square's favorite day?
+ A) Friday
+ B) Wednesday
+ C) Saturday
+*D) Tuesday
+
+
+***************************************************
+Story:            mc500.dev.30
+Author:           2668697876
+Qual. score:      80
+Work Time(s):     2143
+Creativity Words: tissue,lift,window,home,morning,horn,read,food,costume,bath,dream,star,glue,stupid,licking
+
+The sun was rising in the morning and the birds were waking up. A mother bird was watching over her baby eggs in the nest. She laid four eggs yesterday, some white and some spotted. She had been keeping them warm so that her babies would soon be born. Little cracks appeared on the eggs and they started to grow and grow. Little "cheeping" sounds could be heard coming from inside, and soon the eggs cracked open. Featherless baby birds were inside, crying for food. The mother had nothing to give, so she quickly flew to the ground and looked in the dirt for food. She saw some worms wiggling in the ground. She picked a few up with her beak and flew them up to the nest. The babies were well fed with the worms, and the mother kept them all warm in the cold spring morning. Mr. Bird came home to find his new babies, and they were all a happy family.
+
+1: one: What color are the eggs?
+ A) All spotted
+ B) blue
+*C) Some white, some spotted
+ D) All white
+
+2: one: How many babies are there?
+ A) two
+ B) three
+*C) four
+ D) one
+
+3: multiple: What food does the mother bird get?
+ A) Dirt
+ B) Eggs
+ C) Nest
+*D) Worms
+
+4: multiple: Who came into the nest last?
+ A) Worms
+ B) The babies
+*C) Mr. Bird
+ D) Mrs. Bird
+
+
+***************************************************
+Story:            mc500.dev.31
+Author:           978118136
+Qual. score:      95
+Work Time(s):     959
+Creativity Words: unicorn,sweet,smell,insect,lap,parent,maybe,sand,quieter,tomato,bib,feed,digging,sandwich,see
+
+Once upon a time I had a dog named Toodles. He was black and white and had long floppy ears. He also had very short legs, but really big paws. Every Saturday we would go to the park and play Toodles' favorite game. Toodles loved playing fetch. One Saturday, Toodles ran over to the pond because he saw ducks swimming there. He ran all around the pond, barking at the ducks. The ducks ignored him, and kept swimming. Toodles wasn't having it! He jumped into the pond and started swimming toward the ducks, chasing around his new playmates. One of the ducks, braver than the others, poked Toodles with his beak - and then bit him right on one of his floppy ears! Toodles barked and ran out of the pond because the duck hurt his ear. Soaking wet, he ran toward where I was eating a sandwich on the grass and curled right up in my lap so I could make him feel better. After that, whenever he would see a duck, Toodles would run the other way.
+
+1: multiple: Why did we go to the park every Saturday?
+ A) To dig in the sand.
+*B) To play fetch.
+ C) To chase other dogs.
+ D) To swim in the pond.
+
+2: multiple: What did Toodles look like?
+ A) Brown and white with floppy ears, long legs, and big paws.
+ B) Gray with short ears, short legs, and tiny paws.
+*C) Black and white with floppy ears, short legs, and big paws.
+ D) Black and white with short ears, long legs, and big paws.
+
+3: multiple: Why was Toodles soaking wet?
+ A) Because he swam in the pond to fetch a stick.
+*B) Because he swam in the pond to chase the ducks.
+ C) Because it rained on him.
+ D) Because he jumped in the pool to fetch a ball.
+
+4: multiple: Why did Toodles curl up in my lap?
+*A) So I could make him feel better.
+ B) Because I was tired.
+ C) Because he wanted to go home.
+ D) Because he was tired.
+
+
+***************************************************
+Story:            mc500.dev.32
+Author:           1785729709
+Qual. score:      80
+Work Time(s):     2314
+Creativity Words: pumpkin,apple,bearing,green,mine,pancake,real,fruit,plane,cow,banana,star,put,racer,smile
+
+"I don't think I can win the race" Tim told his parents over breakfast. His mother asked "Why not?" but his father was silent. Tim knew his father didn't believe he could be a racer: only last year, he had sent Tim to a doctor to ask why his son wasn't a better runner. The doctor told him Tim could be anything he wanted to be, and maybe he didn't like to run. 
+
+Tim, who had always preferred a good book to P.E. class, wanted to show his family that he really could be what they wanted him to be, so he spent his allowance on a pair of green running shoes and signed up for his school's Spring Fun Run. 
+
+Tim answered, "I'm going to try to win, but Angela is so quick! No one ever beats her at recess." 
+
+"Well, we'll be there for you, either way" his mother said.
+
+Tim took an apple and walked to the bus. Since the race was after school today (school was letting out at 3:00 today, instead of 3:15), he knew he would be too nervous to think about anything else until it began. He didn't even bring his new book with him, an action book starring an orphan named Simon that Tim sometimes pretended to be.
+
+3:30 arrived and the race was about to begin. All the other students had brought running shorts, but Tim was going to have to run in his school pants. Suddenly, he saw that his shoes were untied. As he bent down to tie them, one of the older boys kicked the back of his knee, making him fall down right as the race began. By the time he got up and tied his shoes, he saw he would finish in last place, as the other kids were much farther ahead of him. 
+
+It was almost 4:00 before Tim saw the end of the run. By the time Tim reached the finish line, the group of parents waiting on their kids was very small, as some kids had been finished for a long time. Tim's father asked, "What took you so long? I'm surprised to see you here at all! Why did you sign up for this when we all knew you wouldn't win?" 
+
+Tim thought about why he signed up. It wasn't about winning the race, or making his father proud. It was about finishing, and showing himself that the doctor was right: he could be anything he wanted to be, like his favorite character, Simon.
+
+1: multiple: Why does Tim start out so far behind?
+ A) He trips over his shoelace.
+*B) He is knocked down.
+ C) He gets sick.
+ D) He can't run.
+
+2: one: What time does the race start?
+ A) 3:15
+ B) Tim doesn't know
+ C) 4:00
+*D) 3:30
+
+3: multiple: Why does Tim run the race?
+ A) To make Angela like him.
+ B) To win a prize.
+ C) Because his father wants him to.
+*D) To show that he could be anything he wanted to be.
+
+4: one: What does Tim bring to school?
+*A) An apple
+ B) Nothing
+ C) A book
+ D) Shorts
+
+
+***************************************************
+Story:            mc500.dev.33
+Author:           1059621594
+Qual. score:      85
+Work Time(s):     6949
+Creativity Words: duck,witch,unicorn,rule,cone,neck,winding,leg,tub,run,ball,elbow,sky,grandma,sweep
+
+Jack wants to play with his dog, Max. Jack finds the ball. He throws the ball across the yard. Max runs after the ball. Max brings the ball back to Jack. Jack plays fetch with Max for a long time.
+
+Jack now wants to Max for a walk. He looks for Max's leash. He looks on the porch. He looks in the closet. He looks on the hooks by the front door. Jack finally finds the leash in the kitchen drawer.
+
+Jack puts the leash on Max and leads him out the front gate. Jack isn't sure where he wants to go. He thinks about taking Max around the block. He thinks about taking Max to the pet store for a treat. He thinks about visiting his friend. He finally knows where to go. He takes Max to the park. He sees his friends, Jim. Sammy, and Paul, at the park. They are all friends but Jack likes Sammy the best. 
+
+Jack has a great time playing with Max at the park. They play with a Frisbee. They chase in other and roll on the ground. Max is very dirty when they got home. Jack has to give Max a bath in the tub.
+
+1: multiple: Who is Jack's best friend?
+ A) Max
+ B) Paul
+*C) Sammy
+ D) Jim
+
+2: one: Where does Jack take Max?
+*A) To the park
+ B) Pet store
+ C) To visit his friend
+ D) Around the block
+
+3: one: Where does Jack find the leash?
+ A) On the porch
+*B) In the kitchen drawer
+ C) In the closet
+ D) On the hooks by the front door
+
+4: multiple: What game did Jack play with Max in the yard?
+ A) Leash
+*B) Fetch
+ C) Ball
+ D) Frisbee
+
+
+***************************************************
+Story:            mc500.dev.34
+Author:           2914170633
+Qual. score:      95
+Work Time(s):     1674
+Creativity Words: mail,want,football,tear,dinner,picture,stair,go,change,taking,share,sour,digging,cup,turning
+
+Josie started planning her new garden in the winter. She chose flowers and vegetables that could grow in her area. She looked through the seed magazines. She ordered the tastiest kind of each vegetable and the prettiest kind of each flower. She talked to a friend about her plans. It seemed like the snow would never melt.
+
+But Josie didn't have to wait for spring to get started. Six weeks before the last frost, Josie planted seeds indoors. The tiny seedlings pushed up through the soil and began to grow. 
+
+Finally spring arrived. Each day, Josie moved the seedlings outside for a few hours so they could get used to the cooler temperatures. Josie worked in her garden, digging the soil. She added a special growing mix from the garden store to make the soil better. When everything was ready, she removed the seedlings from their trays and planted them in her garden. The warm sun and rich soil helped her vegetables and flowers grow.
+
+1: multiple: How did Josie get the soil in her garden ready for planting?
+ A) She waited for the last frost.
+ B) She planted her seedlings indoors.
+ C) She started planning her garden in the winter.
+*D) She dug her garden and added a special growing mix to the soil.
+
+2: one: Where did Josie order her seeds?
+*A) Seed magazines
+ B) She had them left over from last year
+ C) A friend
+ D) The garden store
+
+3: multiple: What did Josie do to get her seedlings ready to plant in the garden?
+ A) The warm sun and rich soil helped her vegetables and flowers grow.
+ B) Melted the snow and planted them outside before the last frost.
+ C) Planted them outside, straight into the soil.
+*D) Started her seeds indoors and got them used to the cooler temperatures outside.
+
+4: one: When did Josie start her seedlings?
+ A) Seven weeks before the last frost.
+ B) Four weeks before the last frost.
+*C) Six weeks before the last frost.
+ D) Five weeks before the last frost.
+
+
+***************************************************
+Story:            mc500.dev.35
+Author:           2452845663
+Qual. score:      85
+Work Time(s):     1354
+Creativity Words: reindeer,monster,grass,stupid,boy,pain,bowing,cheese,dot,coke,booger,drum,fruit,dry,hurt
+
+Bill and Sarah chose to meet at the park on Saturday to play ball and have a picnic. They went to the same grade school together and lived on the same street down from the park. Sarah does not often like boys, but for a boy, Bill was alright. Most boys like Tom and Mark are stupid and a real pain, but Bill was a lot of fun to play with and didn't do dumb things like putting a booger on her back during recess. When Bill and Sarah arrived at the park, they first played ball in the grass near the playground. Then they chose to pretend that Bill was a monster and Sarah was the monster hunter. Sarah chased Bill all over the playground. They went in and out and up and down. Bill ran under the slide and stepped in a puddle. He didn't get hurt but he sure got plenty wet. Playing the monster game was the most fun that they had at the park that day. Later they sat in the grass for a picnic. They both took off their shoes so that Bill's feet could dry off and so that he wouldn't feel silly without shoes. Sarah took out her lunch and laid it out next to her. She had dried fruit and cheese and a peanut butter sandwich. Bill opened his lunch bag and found a coke, a bag of chips, and a ham salad sandwich. Sarah wanted to trade Bill his bag of chips for her fruit. He said that would be a fair trade and they enjoyed their lunch together. After they had their lunch, they lay back in the grass and watched the clouds. Some clouds looked like animals or shapes. Bill spotted one that looked like a reindeer. Sarah pointed to one that looked like a drum. Finally Bill and Sarah got up and brushed off the grass and headed for home.
+
+1: multiple: What kind of sandwiches did Bill and Sarah have?
+ A) Tuna fish and ham salad
+ B) Coke and peanut butter
+*C) Ham salad and peanut butter
+ D) Ham salad and fruit
+
+2: multiple: Why did Sarah take of her shoes?
+*A) So Bill wouldn't feel silly
+ B) Because her feet were hot
+ C) Because monster hunters don't wear shoes
+ D) Because her feet were wet
+
+3: one: Where did Bill and Sarah play ball?
+*A) On the grass
+ B) Under the slide
+ C) On the pavement
+ D) In the playground
+
+4: one: What boy does Sarah like to play with?
+ A) Scott
+ B) Mark
+ C) Tom
+*D) Bill
+
+
+***************************************************
+Story:            mc500.dev.36
+Author:           1059621594
+Qual. score:      85
+Work Time(s):     4896
+Creativity Words: tape,forward,piggy,tiger,cookie,bow,sitting,straw,fingering,chair,shoe,purple,soap,burn,side
+
+Shelly is in second grade. She is a new student at her school. Shelly's family has lived in many different places. Shelly was born in Florida. Her family moved to Tennessee when she was two years old. When she was four years old, they moved to Texas. They moved from there to Arizona, where they now live. 
+
+Shelly is upset because she does not have any friends at her new school. She misses her old school. She had lots of friends at her old school. She really misses her best friend, Julie. 
+
+When she gets to school on the first day, she feels very nervous. She wants to go back to her other school. She even misses Mrs. Bell, her first grade teacher. 
+
+Her new teacher, Mrs. Borden, makes her stand in front of the class and say something about herself. She is so embarrassed! She is told to sit between two boys, Tim and John.
+
+When it is time for lunch, Mrs. Borden picks Shelly to lead the line. Maybe, she's not so bad after all, Shelly thinks. 
+
+At lunch, she meets Mrs. Stewart. Mrs. Stewart works in the school office. She is very nice.
+
+Shelly finds a seat in the lunchroom. She smiles at the girl next to her. The girl's name is Sue. She is very nice to Shelly. She even shares a cookie with Shelly. Shelly is very happy that she has a new friend.
+
+1: one: Who is Shelly's second grade teacher?
+ A) Sue
+ B) Mrs. Stewart
+*C) Mrs. Borden
+ D) Mrs. Bell
+
+2: multiple: Where did Shelly's family move to Arizona from?
+ A) Arizona
+ B) Tennessee
+ C) Florida
+*D) Texas
+
+3: one: Where was Shelly born?
+ A) Arizona
+ B) Tennessee
+ C) Texas
+*D) Florida
+
+4: multiple: Who is Shelly's best friend from her old school?
+*A) Julie
+ B) Sue
+ C) Tim
+ D) John
+
+
+***************************************************
+Story:            mc500.dev.37
+Author:           3960989957
+Qual. score:      90
+Work Time(s):     939
+Creativity Words: dark,call,horse,wetter,stairway,smell,bib,ring,auntie,chicken,zebra,smile,why,lion,friend
+
+Lions get very lonely sometimes but they have a difficult time trying to make friends. Lions have big teeth, sharp claws, and sometimes, they are very cranky. They don't always get along with other animals or humans, so they have to get rid of their anger and their crazy emotions to make and keep friends. Zebras and lions like to play tag, but sometimes it gets a little rough and zebra gets hurt. When that happens, a nice lion needs to say sorry and to try to find another friend. A lion might go up to a chicken and smile, or maybe a lion might bring a horse some flowers or food to make him or her less nervous. It's not easy to be friends with a lion, but a friendship takes time and a lot of hard work and that's what is most important! Also, my auntie always told me to be strong like a lion but to always be nice. Having big teeth, sharp claws, and being cranky is not good, and we need to work hard to be the opposite of that to make sure we keep our friends.
+
+1: one: What three bad things does a lion have that scare other animals?
+*A) Lions have big teeth, sharp claws, and sometimes, they are very cranky.
+ B) Lions have bad hair, bad breath, and a bad attitude.
+ C) Lions have bad breath, sharp claws, and sometimes, they are very cranky.
+ D) Lions have sharp claws, bad hair, and big teeth.
+
+2: multiple: What is so important to make a friendship last a long time?
+*A) You need time, hard work, and we need to always be nice.
+ B) You need to be popular, to do hard work, and we need to always be nice.
+ C) You need time, to do some work, and we need to always be okay to our friends.
+ D) You need money, to do hard work, and we need to always be nice.
+
+3: multiple: What other animals do lions try to make friends with?
+*A) Zebra, horse, chicken
+ B) Chicken, zebra, pig
+ C) Zebra, horse, snake.
+ D) Pig, snake, horse
+
+4: one: What might a lion do to make a horse less nervous about being friends?
+ A) A lion might bring a horse some candy or food to make him or her less nervous.
+*B) A lion might bring a horse some flowers or food to make him or her less nervous.
+ C) A lion might bring a horse some money or food to make him or her less nervous.
+ D) A lion might bring a horse some clothes or food to make him or her less nervous.
+
+
+***************************************************
+Story:            mc500.dev.38
+Author:           3143230529
+Qual. score:      90
+Work Time(s):     1444
+Creativity Words: farmer,cross,pain,word,bench,liking,suppertime,parent,juice,sun,making,worm,cross,use,haircut
+
+Joe's parents are farmers and they have a huge farm with cows, chickens, and ducks. Joe loves the farm and all the things he gets to play around and play on. One day, Joe's father told him not to get near a tractor that was sitting in the field. His father was worried that Joe would climb on it and hurt himself. Joe went out to the field and was feeding the horses and cows. When he was done, he saw the tractor his father told him not to get near. He knew that climbing on the tractor wouldn't hurt anything, so he did. He climbed on to the seat and sat there. Then, he pretended he was his father and pretended that he was driving the tractor. Joe's father saw him playing on the tractor and called for him. Joe heard his father calling for him and got off the tractor really fast. When he did that, he fell off and hurt his arm. Joe was in pain and his father came running to check on him and picked him up and sat him on a bench and asked him why he did that. Joe looked at his father and said, "I wanted to be like you." Joe's father gave him a hug and asked him if he wanted to ride with him on the tractor. Joe did and after he got a bandage on his arm, he and his father rode in the field on the tractor.
+
+1: multiple: What was in the field?
+ A) Ducks, horses, and cows.
+*B) A tractor, horses, and cows.
+ C) Nothing was in the field.
+ D) A tractor and chickens.
+
+2: one: Why did Joe's father not want him around the tractor?
+ A) He was afraid Joe would have fun.
+ B) He was afraid Joe would never get off the tractor.
+ C) He was afraid Joe would feed the horses and cows.
+*D) He was afraid Joe would climb on and hurt himself.
+
+3: one: What did Joe's father tell him not to do?
+*A) Get near the tractor.
+ B) Ride the cows.
+ C) Ride the tractor real fast.
+ D) Feed the cows.
+
+4: multiple: What was Joe doing on the tractor?
+ A) Joe sat there and asked his dad to ride with him.
+ B) Joe drove the tractor into a pond.
+ C) Joe sat there and sang and pretending to drive the tractor.
+*D) Joe sat there and then pretended he was his father driving the tractor.
+
+
+***************************************************
+Story:            mc500.dev.39
+Author:           2236321953
+Qual. score:      85
+Work Time(s):     8069
+Creativity Words: daughter,batting,hot,chirp,mustard,stair,auntie,smell,spinach,yellow,liking,present,string,ride,song
+
+The bird by the river chirped twice before breaking into song, to tell all the other animals to sing along. The dog barked, the other birds sang, the squirrel squeaked, and the rabbit clapped its ears together. The cat did not because his mouth was hot from some very strong mustard. He thought to himself that he wouldn't have eaten that hot dog if he knew it was on it. He tried to look for water, but that mustard drove his nose crazy and he couldn't smell anything. Not even water. 
+
+Luckily for the cat, cats have very good eyes, and he saw a puddle out of the corner of his eye. He ran to it. He wondered why the water was kind of yellow, and thought it must be from the leaves floating in the puddle. The cat took a big drink. It made his tongue felt so much better that it made him want to sing, but the others were done and the bird had flown away.
+
+1: multiple: What made the cat's tongue feel better?
+*A) Water
+ B) The bird.
+ C) Singing
+ D) Mustard
+
+2: multiple: Where did the cat find water?
+ A) In a water bottle
+*B) In a puddle
+ C) In a water dish
+ D) In a river
+
+3: one: What was floating in the puddle?
+ A) Mustard
+ B) A rabbit
+*C) Leaves
+ D) A bird
+
+4: multiple: Who told the dog to sing along?
+ A) the squirrel
+*B) The bird
+ C) the rabbit
+ D) the cat
+
+
+***************************************************
+Story:            mc500.dev.40
+Author:           2676030220
+Qual. score:      85
+Work Time(s):     3015
+Creativity Words: blanket,cutie,coming,bedroom,pop,walk,sugar,fear,pink,stick,thunder,wear,chipmunk,sun,lap
+
+I stepped inside my mother's car and dropped my backpack on the floor as my face filled with excitement. Today's the day that we're going to the candy store and picking out a new treat to have after dinner. Some people may like going to the movies, or the game room, or even to parks, but going to the candy store once a week and getting to see all the different colors and taste all the different treats is my favorite activity. As soon as we pull up, she tells me to not run around too much inside, but I'm so excited I barely hear her. She opens the door and we walk inside where the clerk first welcomes us. Since we do this each week, he calls me by my name of Trevor and says that he's come up with a few candies for me to try. 
+
+I walk over to the table and see three types of M&M's laid out. He knows I'm not a big fan of peanuts so he left out the peanut kind, instead giving me mint flavored, cookies 'n creme flavored, and white chocolate flavored. They all taste great and the clerk asks which I like the most. It takes me a bit to choose, but I finally choose the Mint as this week's choice. He rings us up at the front desk and says that since we buy from his shop so much, he's going to give us a sale, so we think it'll be a nickel or a dime or even a quarter off. Actually, the clerk ends up cutting it half off! We thanked him and went on our way as I tried not to eat all the way home.
+
+1: multiple: What does the clerk first do upon Trevor and his mom entering the candy shop?
+ A) Calls Trevor by his name
+ B) Presents M&M's for him to try
+ C) Asks Trevor which type of M&M he preferred
+*D) Welcomes them
+
+2: one: Which type of M&M's does the clerk not give Trevor to try?
+*A) Peanut
+ B) Mint
+ C) White chocolate
+ D) Cookies n'creme
+
+3: one: What do Trevor and his mom do once a week?
+ A) Visit the game room
+ B) Go to the movies
+ C) Have fun at parks
+*D) Go to the candy store to pick out an after-dinner treat
+
+4: multiple: How much money does the clerk take away from their order?
+ A) A dime
+ B) A quarter
+ C) A nickel
+*D) Half off
+
+
+***************************************************
+Story:            mc500.dev.41
+Author:           3805532826
+Qual. score:      100
+Work Time(s):     472
+Creativity Words: rock,get,finger,chin,roaring,put,kick,window,lunch,fell,daddy,cow,sleeve,table,granddad
+
+Once upon a time there was a cow.  It was a very happy cow.  The cow put his chin in the window.  Then the cow put a rock in a window.  The cow was done putting things in the window.  The cow talked to his daddy.  Then the cow talked to his granddaddy.  Then it was time for the cow to eat lunch.  The cow took a long time to eat lunch.  The cow ate some chips for lunch.  The cow didn't eat a sandwich or a pickle for lunch. The cow was getting very sleepy.  The cow wanted to take a nap.  The cow went to his bed.  There was a book on the bed.  The cow could not sleep on his bed.  The cow took the book off his bed.  Then the cow could take a nap.  The cow was very happy that it could take a nap on its bed.  The cow was a good cow.
+
+1: multiple: How many things did the cow put in a window?
+*A) two
+ B) three things
+ C) five rocks
+ D) nothing
+
+2: one: What did the cow take off the bed?
+ A) his granddaddy
+ B) a rock
+*C) a book
+ D) a sandwich
+
+3: one: What did the cow eat for lunch?
+ A) sandwich
+ B) pickle
+*C) chips
+ D) popcorn
+
+4: multiple: What two people did the cow talk to?
+ A) granddaddy and mother
+*B) daddy and granddaddy
+ C) granddaddy and brother
+ D) daddy and teacher
+
+
+***************************************************
+Story:            mc500.dev.42
+Author:           3435464792
+Qual. score:      90
+Work Time(s):     680
+Creativity Words: lap,family,danger,red,son,clap,lettuce,dinnertime,watch,moo,make,square,cutie,wet,clown
+
+John wanted to have a birthday party for his son, Mike. John and his wife Sara knew that their son loved clowns, as did their daughter Jane. So they looked up a place to have a clown come to his birthday party. When the clown arrived, ten of Mikes friends showed up to watch the show. His parents had sent out 12 invites, thinking 6 or 8 kids would come. The clown started the show by squirting some water from a flower into John's face. This caused John's face to turn red. After the show, when everyone had left, it was up to John and Sara to clean up after the party. There was food everywhere; they had had salad and there was lettuce on the ground. Later that evening it was dinnertime and the family had to choose what to eat. The choices were order a pizza, make hamburgers, go get fried chicken or make noodles. Since it was Mike's birthday they let him choose. He really wanted pizza so they called up Pizza Palace to place their order. When the pizza arrived it did not come in a square box like most pizzas. Instead it was in a round box that no one had ever seen. John gave everybody a slice and then placed Mike in his lap to eat dinner.
+
+1: one: How many of Mikes friends came to the party
+ A) 6
+*B) 10
+ C) 8
+ D) 12
+
+2: multiple: What was picked for dinnertime and by who?
+ A) Noodles, John
+*B) Pizza, Mike.
+ C) Salad, Sara
+ D) Hamburgers, Jane
+
+3: one: What shape box did the pizza come in?
+ A) Triangle
+ B) Square
+*C) Circle
+ D) no box.
+
+4: multiple: What performer came to the party, and what was the party for?
+ A) Clown, daughter's birthday party
+ B) Magician son's birthday party
+ C) Magician, daughter's birthday party.
+*D) Clown, son's birthday party
+
+
+***************************************************
+Story:            mc500.dev.43
+Author:           4075854844
+Qual. score:      90
+Work Time(s):     715
+Creativity Words: brush,fingering,food,piece,wet,purple,taste,cold,squirrel,pie,morning,try,pear,cousin,silly
+
+Once upon a time, there was a squirrel named Joey. Joey loved to go outside and play with his cousin Jimmy. Joey and Jimmy played silly games together, and were always laughing. One day, Joey and Jimmy went swimming together at their Aunt Julie's pond. Joey woke up early in the morning to eat some food before they left. He couldn't find anything to eat except for pie! Usually, Joey would eat cereal, fruit (a pear), or oatmeal for breakfast. After he ate, he and Jimmy went to the pond. On their way there they saw their friend Jack Rabbit. They dove into the water and swam for several hours. The sun was out, but the breeze was cold. Joey and Jimmy got out of the water and started walking home. Their fur was wet, and the breeze chilled them. When they got home, they dried off, and Jimmy put on his favorite purple shirt. Joey put on a blue shirt with red and green dots. The two squirrels ate some food that Joey's mom, Jasmine, made and went off to bed.
+
+1: multiple: What did Joey eat for breakfast?
+*A) Pie
+ B) Oatmeal
+ C) Cereal
+ D) Pear
+
+2: multiple: What color was Jimmy's favorite shirt?
+ A) Green
+ B) Red
+*C) Purple
+ D) Blue
+
+3: multiple: What was Joey's cousin's name?
+ A) Julie
+*B) Jimmy
+ C) Jasmine
+ D) Jack
+
+4: one: What was the squirrel's name?
+ A) Jimmy
+ B) Julie
+*C) Joey
+ D) Jack
+
+
+***************************************************
+Story:            mc500.dev.44
+Author:           1904494757
+Qual. score:      85
+Work Time(s):     1403
+Creativity Words: last,down,walk,writing,round,treat,bag,fast,skin,ceiling,sleeve,bat,knob,like,park
+
+Jake was walking to the park to play baseball with his friends.  He loved being outside on sunny days, and now that school was over for the year, he was playing baseball every day.  The more he played, the better he got.  Only Frank was better than he was.  He liked playing third base, but he often played in the field.  He was carrying his favorite mitt that his Grandfather had bought him.  His Grandfather had taught him to catch.  He loved spending time with him when he was younger, but he had moved last year.  Now he only saw his Grandfather in the summer.  Jake was really excited to show him his skills when he came to their next game.  He could throw really fast now.  He was sure his Grandfather would want to sit in the front to watch him.  He knew he would jump up and down.  Jake happily ran the rest of the way to the park thinking about how much fun he was going to have playing baseball this year.
+
+1: one: Who is better than Jake at baseball?
+*A) Frank.
+ B) His Grandfather.
+ C) No one.
+ D) His Grandmother.
+
+2: one: What did Jake's Grandfather teach him?
+ A) To run.
+*B) To catch.
+ C) To jump.
+ D) To throw.
+
+3: multiple: How did Jake get so good at baseball?
+ A) He slept with his mitt.
+ B) Frank showed him how.
+ C) He ran a lot.
+*D) He played a lot.
+
+4: multiple: Why doesn't Jake's Grandfather play baseball with him now?
+ A) Jake asked him not too.
+*B) He moved away.
+ C) His Grandfather hates baseball.
+ D) His Grandfather died.
+
+
+***************************************************
+Story:            mc500.dev.45
+Author:           2453462068
+Qual. score:      85
+Work Time(s):     3477
+Creativity Words: store,bowl,mustard,cutie,sugar,pet,arm,faster,winter,slide,standing,lettuce,close,cheese,key
+
+It was a cold winter day in John's city. It was December and snowing outside. This made John want a bowl of warm soup. John went to the refrigerator to make soup. He looked for the things needed to make the soup. He did not see some items he needed. John needed to go to the grocery store. John wanted to make a list. He found a pencil and paper to make a list. He needed sugar, lettuce, tomatoes and cheese. John wrote down the items. He put the grocery list in his pocket. He then went to the closet to get dressed. John needed a jacket and gloves for the cold weather. He also put his boots on. He remembered to close the front door to his house. John used a key to lock his front door. Then he put the house key is his pocket. The grocery store was around the corner. John walked to the grocery store. He grabbed a grocery basket to put his items in. What did John need? He pulled out his list of items. John found each item and walked back to his house. On this cold winter day, John can make a bowl of warm soup. He has all the items he needed. John was happy.
+
+1: multiple: Why did John want to make soup?
+ A) It was a hot summer day in June and it was sunny.
+*B) It was a cold winter day in December and it was snowing.
+ C) John was sick.
+ D) It was a cold winter day in June.
+
+2: multiple: What did John put in his pocket after he left the house?
+ A) A house key and a spoon
+ B) A pencil and watch
+ C) A spoon and a pencil
+*D) A grocery list and a house key
+
+3: multiple: What did John put on for the cold weather?
+*A) Jacket, gloves and boots.
+ B) Sunscreen, sunglasses and sandals.
+ C) Raincoat, hat, and rain boots.
+ D) Umbrella, hat, and basket.
+
+4: one: Why did John go to the grocery store?
+*A) He needed groceries for his soup.
+ B) He needed a jacket and gloves
+ C) Because his house was cold
+ D) He wanted candy and popcorn
+
+
+***************************************************
+Story:            mc500.dev.46
+Author:           4289699373
+Qual. score:      85
+Work Time(s):     4079
+Creativity Words: splinter,toy,switch,clap,sip,rule,cop,side,cut,elf,napkin,writing,floor,squirrel,ketchup
+
+Sally the cat went outside to play. First she went on the trail to the river. Sally sat and watched the fish. She wanted to catch a fish. The fish swam away too fast. Next she went to the field. Sally laid down in the grass and took a nap. There's nothing like a cat nap on a warm day. When Sally woke up she saw a mouse. Sally ran after the mouse and tried to catch it. The mouse ran into a hole and got away. "That's okay" Sally said. "I'll get him next time." Sally went back to the trail and began to walk home. When she got back to the river she took a drink of water. "This water tastes good" said Sally. When she got back to her house, Sally went inside and ate a cat treat. She spent the rest of day playing with her favorite person. "This was a good day" said Sally.
+
+1: multiple: What did Sally do when she got home?
+ A) Sally took a nap.
+*B) Sally went inside and ate a cat treat. She spent the rest of day playing with her favorite person. She spent the rest of day playing with her favorite person.
+ C) Sally watched the fish.
+ D) Sally chased a mouse.
+
+2: one: What did Sally do in the field?
+*A) Sally laid down in the grass and took a nap.
+ B) Sally watched the fish.
+ C) Sally ate a cat treat.
+ D) Sally chased a mouse.
+
+3: multiple: What did Sally do when she woke up from her nap?
+ A) Sally ate a cat treat.
+ B) Sally spent the rest of the day playing with her favorite person.
+*C) When Sally woke up she saw a mouse. Sally ran after the mouse and tried to catch it.
+ D) Sally watched the fish.
+
+4: one: What did Sally do when she got to the river?
+ A) Sally played with her favorite person.
+ B) Sally chased a mouse.
+*C) Sally sat and watched the fish.
+ D) Sally ate a cat treat.
+
+
+***************************************************
+Story:            mc500.dev.47
+Author:           2304230295
+Qual. score:      100
+Work Time(s):     755
+Creativity Words: circle,stair,toe,rest,hello,mommy,quieter,dug,library,nap,bell,blue,second,cut,square
+
+There once was a little monkey who lived in a zoo. He was a tiny brown monkey, smaller than all of the others. He was quieter than the others too. He was so quiet, in fact, that his mommy monkey made him wear a small blue bell around his neck so that she could find him. Even when the little monkey was very quiet, whenever he moved, the bell would jingle and his mother could find him.
+
+One day, this little monkey had been running around under the yellow sun for a long time, with his bell going "jingle jingle." He started to feel tired. But the other monkeys were still having fun and making a lot of noise. They were yelling and banging things together. The little monkey wanted to find somewhere quiet.
+
+Finally, he knew what to do: he took off his blue bell. He hung it on a branch. Then he sneaked out of his cage in the zoo. He waited. He was very quiet and small. He waited until a young girl came walking through the zoo. She was with her mother and father. Then he jumped into her red backpack. He was so small that she didn't know he was there. The girl and her mother and father got in their car and went home.
+
+When the girl got home, she set down her backpack. Her brother thought he saw her backpack moving. Her sister thought she heard something. But nobody knew that a tiny, sleepy monkey had come home from the zoo. He was happily sleeping in the girl's backpack in her quiet house, away from all the other noisy monkeys.
+
+1: multiple: Why did the little monkey jump in the girl's backpack?
+ A) He wanted to yell and bang things together.
+*B) He was tired and wanted to get away from the noisy monkeys.
+ C) He wanted to drive a car.
+ D) He liked to run around.
+
+2: one: What color was the monkey's bell?
+ A) Yellow
+*B) Blue
+ C) Brown
+ D) Red
+
+3: one: Where did the monkey hang his bell?
+ A) On a car.
+*B) On a branch.
+ C) On a backpack.
+ D) On another monkey.
+
+4: multiple: Who was walking with the girl at the zoo?
+ A) Her brother
+ B) A mommy monkey
+*C) Her mother and father
+ D) Her sister
+
+
+***************************************************
+Story:            mc500.dev.48
+Author:           628265703
+Qual. score:      100
+Work Time(s):     1267
+Creativity Words: closing,library,singing,wet,river,pink,uncle,skip,behind,air,truck,ride,cup,daddy,horse
+
+Jack and Mackenzie wanted to do something fun during their day off from school. They knew that the library had story time on Monday, Tuesday, and Wednesday. Their mother told them they could go to the library every Tuesday for their story time. They packed up the car and drove to the library, ready for a fun morning.
+
+When they arrived to the story room, there were lots of other children their age, all sitting cross-legged and ready for the story of the day. The teacher told them they would be reading "The Wild Horse". She began to tell the story of Majestic, the wild horse who could not be calmed. His people had tried and tried to break him, but he was wild at heart. Every time they took him to the river to drink, he would run straight into the water and get soaking wet! He would splash and play until he was ready to go back home, where he would sleep for hours, having worn himself out playing.
+
+1: multiple: What was the name of the horse?
+*A) Majestic
+ B) mother
+ C) Mackenzie
+ D) Jack
+
+2: multiple: What did the horse do in the river?
+ A) take a bath
+*B) splash and play
+ C) drink
+ D) spray water from his mouth
+
+3: one: Where did Jack and Mackenzie go with their mother?
+ A) home
+*B) library
+ C) river
+ D) playground
+
+4: multiple: What day was story time at the library?
+ A) Friday
+*B) Tuesday
+ C) Wednesday
+ D) Monday
+
+
+***************************************************
+Story:            mc500.dev.49
+Author:           680298104
+Qual. score:      95
+Work Time(s):     764
+Creativity Words: splinter,lie,goldfish,sand,smile,thank,racer,letter,naughty,use,bubble,hiding,hit,coin,coin
+
+Lucy is an eight year old girl who lives with her parents and pet bird. One Saturday afternoon, she sits at the kitchen table. She draws a picture of her family. She makes sure to draw her mom named Martha wearing a purple dress, because that is her favorite. She draws many yellow feathers for her pet bird named Andy. After she is done, she gives the picture to her mom. Her mom hangs it up on the silver refrigerator. The next day, Lucy's mom comes home with a brown dog named Oliver. She tells Lucy that she is pet-sitting, which is like babysitting but with a friend's dog. Lucy's mom tells her she can play with the dog as long as she takes good care of him. Lucy is excited. She pets Oliver nicely on his soft back. He wags his tail. He barks, "Woof!" and shows he wants to play fetch with her. Lucy giggles and throws a ball for him to catch. She wishes her bird could play like this with her every day!
+
+1: one: What is the name of the pet bird?
+*A) Andy
+ B) Oliver
+ C) Martha
+ D) Lucy
+
+2: multiple: Why can't Andy play fetch with Lucy?
+*A) birds can't play fetch
+ B) Lucy's mom won't let her
+ C) he doesn't want to
+ D) he's not allowed out of his cage
+
+3: multiple: On what day of the week is Martha pet-sitting?
+ A) Monday
+*B) Sunday
+ C) Saturday
+ D) Friday
+
+4: one: What is Martha's favorite color?
+*A) purple
+ B) yellow
+ C) brown
+ D) silver
+
+

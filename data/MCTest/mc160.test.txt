@@ -1,0 +1,2208 @@
+***************************************************
+Story:            mc160.test.0
+Author:           138354254
+Work Time(s):     3100
+
+Todd is a small boy in the town of Rocksville. Todd thinks his town is the best place in the world, and out of all the places in Rocksville, Todd loves to play in Lake Keet the most. Lake Keet is a small lake with fish, plants, and even little shells. Todd's favorite part was the big rock in the middle of the lake. Todd lives pretty close to the lake, so he gets to go there a lot, but could never to get to the rock in the middle. Todd's dad never lets him swim too far because Todd can't swim very well.
+During summer, Todd told his dad that he wanted to get to the rock before break ended. Todd's dad told him he had to try his hardest. If he did, then Todd's dad would watch him swim every day. If Todd wanted to try and get to the rock, his dad would follow him there to make sure he was safe. Todd's dad wrote this down in his notebook so he wouldn't forget.
+After a week, Todd made his first try to get to the rock, and his dad followed him like he said he would. Todd didn't make it to the rock before he got tired and had to turn around. He practiced even harder for the next two weeks and wanted to try again. So, a month after summer started, Todd tried to reach the rock again. This time, Todd gave it his all and got all the way to the rock. He was very happy, and his dad was very proud of his son's hard work. To celebrate, Todd's dad carved Todd's name and the date into a tree. This way, they would always remember Todd's hard work.
+
+1: multiple: How long was it before Todd made it to the rock?
+ A) One month
+ B) One week
+ C) Two weeks
+ D) Two months
+
+2: multiple: What did Todd have to do so his dad would watch him every day?
+ A) Try his hardest
+ B) Follow his dad to the rock
+ C) Get to the big rock
+ D) Not swim too far
+
+3: one: What was Todd's favorite part of Lake Keet?
+ A) The plants
+ B) The big rock
+ C) The fish
+ D) The small shells
+
+4: one: How did Todd's dad celebrate Todd's hard work?
+ A) He wrote down Todd's name and the date in his notebook
+ B) He carved Todd's name into a tree
+ C) He practiced even harder
+ D) He swam to the rock again
+
+
+***************************************************
+Story:            mc160.test.1
+Author:           653323593
+Work Time(s):     787
+
+Mortamer was a tree monkey who lived in the jungles of Brazil with his parents, and their pet snail, Johnson.  They lived in a grass house built in the very tops of the trees, so high that they could see the whole jungle from their front porch. One day, Mortamer and his parents were outside hunting for food and the sky turned black! The sun was gone, hidden behind giant black clouds! Big winds shook the very trees of the forest, scaring poor little Mortamer who had turned 7 years old yesterday. 
+
+Then, without warning, the sun was back! It was bright and sunny, and jungle birds were singing with all the other jungle animals.  Little Mortamer and his parents quickly went back to their tree, only to find something very sad!  Their poor little house lay on the ground, smashed to pieces!  The wind knocked it down!  Little Mortamer was very sad, and started to cry.  His parents smiled, and started to pick up the pieces.  Other monkeys came by to help, too.  Soon everyone was fixing Mortamer's house, and he was a very happy monkey.
+
+1: multiple: What scared Mortamer?
+ A) the bright sun
+ B) the jungle birds
+ C) his friend, Johnson playing a trick
+ D) The black sky and strong winds
+
+2: one: What was Mortamer doing when the sky turned black?
+ A) building a tree house
+ B) looking for food
+ C) playing with his pet snail
+ D) playing with his parents
+
+3: multiple: What happened to Mortamer's house?
+ A) Johnson set it on fire
+ B) It was hidden behind giant black clouds
+ C) It got smashed when the wind knocked it down
+ D) It flooded
+
+4: one: What kind of animal was Mortamer?
+ A) snail
+ B) monkey
+ C) a little boy
+ D) bird
+
+
+***************************************************
+Story:            mc160.test.2
+Author:           1459669674
+Work Time(s):     1078
+
+Hannah Harvey was a ten year old that had many friends in school.  She lived in New York and enjoyed doing gymnastics and playing soccer.  One day, Hannah came home from school and her parents greeted her.  She knew that something was different by the expressions on their faces.  Even Jackson, Hannah's dog, was acting different.  Hannah asked why everyone was being so strange. Hannah's father, who was known as Pop, explained to Hannah that his job was forcing him to move.  Hannah did not seem to think this was too big of a deal.  Then, Hannah's mother explained that they were moving to Kenya.  Kenya, she explained, was a place in Africa and life would be very different there.  As Hannah began to cry thinking about all of her friends at home, Hannah's mother calmed her with a gentle touch.  Jackson began howling as Hannah cried, but was also calmed by Hannah's mother. Hannah spent the next two weeks visiting her friends and saying her goodbyes.  She did not know the next time she would be home.  She cried very hard when she said goodbye to her best friend, Susan. Susan did not quite understand where Kenya was, but promised to visit Hannah. The next day, Hannah boarded a plane with her family. At first, they thought that Jackson could not come with them.  However, Hannah worked hard and helped make sure that he had all of his shots so that he could come. After he had them all, the airport said it was OK for Jackson to come!  The Harvey family left and off they went across the ocean to begin their new life in Kenya.
+
+1: multiple: Why did the airport finally let Jackson come?
+ A) Pop argued with the airport workers
+ B) He was very sick and needed help
+ C) He got all of this shots
+ D) There was lots of room on the plane for him
+
+2: one: Where does Hannah Harvey live?
+ A) New York
+ B) Jackson
+ C) Kenya
+ D) Africa
+
+3: one: What is the name of Hannah's dog?
+ A) Susan
+ B) Jackson
+ C) Pop
+ D) Harvey
+
+4: multiple: Why were Hannah's parents acting different when she got home from school?
+ A) Jackson was sick
+ B) Susan was moving
+ C) Pop lost his job
+ D) Her family was moving to Kenya
+
+
+***************************************************
+Story:            mc160.test.3
+Author:           2816961476
+Work Time(s):     1148
+
+Jon was very excited to go to the park. His dad always takes him to the park to play ball. He plays baseball with all his friends. When he got to the park Jon saw his friend Joe. Joe had brought his new puppy to the park. The puppy was very cute. It was a white dog with black spots. Jon really liked Joe's new dog, so did their other friends Janet and Jake. Jon jumped up and down and told his dad how cool the dog was. The next day when Jon's dad came home he had a brown box with him. He told Jon he had a surprise for him. Jon was so excited he couldn't even sit still. When Jon's dad put the box down it began to move. Jon was a little scared but also really excited to see what was in the box. When Jon pulled open the top of the box a very small white dog, covered in black spots, jumped out of the box and into Jon's lap and began to lick his face. Jon was so excited, he named the dog Jack.
+
+1: multiple: Which friend had a puppy?
+ A) Janet
+ B) Jake
+ C) Joe
+ D) Jack
+
+2: multiple: What was the little boy's name who the story was about?
+ A) Joe
+ B) Jake
+ C) Jack
+ D) Jon
+
+3: multiple: What was Jon's surprise from his dad the next day?
+ A) a box
+ B) A puppy
+ C) a ball
+ D) a friend
+
+4: one: Why did Jon go to the park?
+ A) to see the puppy
+ B) because his dad went
+ C) to play ball
+ D) to see his friends
+
+
+***************************************************
+Story:            mc160.test.4
+Author:           2400676051
+Work Time(s):     1491
+
+A little girl named Sue and her brother Jason got a puppy for Christmas.  Their mom knew they had wanted one for some time.  Their mom told them they had to take care of the dog.  They named the dog Roxy and went out and bought their new puppy bowls, leashes, a dog house, and food.  They were so excited to finally have a dog of their own.  Every day they would make sure they fed Roxy and took really good care of her.  Sue really like brushing her hair and Jason really liked walking her.  They loved their puppy.  One day their puppy got out and ran away.  They looked for Roxy all day.   They were so sad.  They felt as if they did not take good care of their new puppy and that is why their puppy left.  Their mom told them that it would be okay and that they would put lost signs out for the puppy.  Jason and Sue got crayons. Sue colored a picture of their new puppy. Jason then put their number on the sign.  They then went down the block and hung pictures on poles and after getting all the signs out, they went home to wait to see if someone would call.  It did not take long.  They had a call that the puppy was found.  It was their neighbor Henry.  The puppy had followed him in as he was walking to his house.  He had never seen the puppy before and knew it must be lost.  Sue and Jason were so happy to have their puppy back.  They went in the house, fed the puppy, and laid down to watch a movie.  When their mom walked in to tell them to go to bed, they were both snuggled with the puppy, sound asleep.
+
+1: one: What all did Sue and Jason buy for the new puppy?
+ A) They bought their new puppy a dog house, food, bowls, and water
+ B) They bought their new puppy food, dog house, dog bone, and leash
+ C) They bought the new puppy bowls, leashes, a dog house, and food
+ D) They bought their new puppy leashes, brushes, combs and a dog house
+
+2: one: What did Sue and Jason name their new puppy?
+ A) Sue and Jason named their new puppy Rosie
+ B) Sue and Jason named their new puppy Ike
+ C) Sue and Jason named their new puppy Roxy
+ D) Sue and Jason named their new puppy Joe
+
+3: multiple: How did their neighbor get the puppy?
+ A) The puppy had followed him in as he was walking to his house.  He had never seen the puppy before and knew it must be lost.
+ B) He called the puppy to his house.  He then took the puppy inside.
+ C) He came outside and saw the puppy sitting on the sidewalk.  He wanted to try to give the puppy a home.
+ D) The puppy came to his door.  He found her when he heard her bark.
+
+4: multiple: What did the kids do to try to find their puppy?
+ A) Sue colored a picture of their new puppy. Jason then put their number on the sign.
+ B) Sue and Jason put out food for the puppy.  The puppy came back home on his own.
+ C) They then went down the block and hung pictures on poles and after getting all the signs out, they went home to wait to see if someone would call.  It did not take long.
+ D) They sat there and waited to see if anyone would call.  They did not wait long.
+
+
+***************************************************
+Story:            mc160.test.5
+Author:           1324490036
+Work Time(s):     4036
+
+Chad walked to the pet store. He saw puppies. There was a black and white puppy. Chad liked the puppy. Chad walked the puppy home on a leash. He took the puppy in the yard to play. He found a ball to play fetch with the puppy. Chad threw the ball and the puppy chased it across the yard. After they were done playing, Chad fed and watered the puppy. He found two bowls in the kitchen. He filled one with water. He filled the other bowl with dog food. The puppy ran to the bowls to eat and drink. When the puppy was finished eating it became tired. Chad made the puppy a bed out of an old pillow. The puppy curled up on the pillow and went to sleep.
+
+1: one: What did the puppy use for a bed?
+ A) pillow
+ B) yard
+ C) couch
+ D) bowl
+
+2: multiple: How did Chad and the puppy get home?
+ A) leash
+ B) walked
+ C) ran
+ D) car
+
+3: multiple: Where did the puppy play fetch?
+ A) outside
+ B) house
+ C) pet store
+ D) yard
+
+4: one: Where did Chad find the bowls to feed and water the dog?
+ A) pet store
+ B) home
+ C) yard
+ D) kitchen
+
+
+***************************************************
+Story:            mc160.test.6
+Author:           3962218273
+Work Time(s):     918
+
+One day, Lucy was taking her dog to the park when she saw a big ice cream truck. 
+
+It did not look like other ice cream trucks she had seen before, so she rushed to look at it. 
+
+Inside, she saw that this truck had many different flavors of ice cream that the other trucks didn't have.
+
+This truck had chocolate, strawberry, banana and even mint flavors!
+
+She wanted to get some ice cream, but when she got to the truck she saw that she had no money.
+
+She remembered then that she left it at home. All the other children were going up to the truck, but Lucy couldn't because she had no money.
+
+She rushed home with her dog at her side, and jumped across fences and ran across sidewalks as quickly as she could, trying her hardest to get home. 
+
+When she got home, she got her money and ran back the way she came to the ice cream truck, but it was gone.
+
+Lucy was very sad. She went back home and...
+
+...found that her Mom had bought ice cream for everyone!
+
+1: one: What was different about the ice cream truck Lucy saw at the park?
+ A) It was blue
+ B) It had more flavors of ice cream
+ C) It was big
+ D) It had chocolate flavored ice cream
+
+2: multiple: Why couldn't Lucy buy ice cream?
+ A) Her mom wouldn't let her
+ B) The ice cream truck was too fast
+ C) She didn't have enough money saved
+ D) She forgot her money at home
+
+3: multiple: What made Lucy sad?
+ A) All the ice cream was eaten all ready.
+ B) The ice cream truck was gone.
+ C) The ice cream truck didn't have the flavor Lucy wanted.
+ D) The ice cream truck was still there.
+
+4: one: What did Lucy's mom bring home for everyone?
+ A) A new dog
+ B) Ice cream
+ C) Frozen yogurt
+ D) An ice cream truck
+
+
+***************************************************
+Story:            mc160.test.7
+Author:           259176131
+Work Time(s):     734
+
+Paul woke up at 8. He was very happy because today he got to go to his favorite thing, the fair. Paul's mother Beth was taking him to the fair. After finishing breakfast at 9, Paul got in the car with his mom. At 10 they got to Jim's house to pick him up. Jim was Paul's best friend. Then at 11, they picked up Beth's boyfriend Hank. After driving for one more hour they all finally got to the fair at 12. They had all been looking forward to this for a very long time. Beth was a bit annoyed by having to drive so much to get here, but she loved her son very much so the trouble was okay. Everyone had a great time, most of all, Paul. Gail's favorite ride was Ferris. Hank's favorite ride was the Ghoster. It was very scary. Paul's favorite ride was the same as Hank's.
+
+1: one: What time did they pick up Jim?
+ A) 10
+ B) 8
+ C) 12
+ D) 9
+
+2: multiple: What was Paul's favorite thing?
+ A) Ghoster
+ B) the fair
+ C) the ride
+ D) Hank
+
+3: multiple: What was Paul's favorite ride?
+ A) Hank
+ B) car
+ C) Ferris
+ D) Ghoster
+
+4: one: Who was Paul's mother?
+ A) Paul
+ B) Jim
+ C) Hank
+ D) Beth
+
+
+***************************************************
+Story:            mc160.test.8
+Author:           1546410455
+Work Time(s):     1388
+
+There once was a little old lady who had no friends. She rode her bike to and from the store and didn't say hello to anyone along the way. One day she saw a little girl crying in the street. No one else was around to take care of the girl so the little old lady stopped her bike and asked the girl, "What is wrong, Dear?" The little girl said, "I hurt my knee when I fell down!" "Oh dear!" cried the little old lady and bent down and looked at the girl's knee. "It looks to me like you have a scrape," she said. The little girl cried and the little old lady said, "Don't worry, all boo-boos hurt a little but it's the medicine that makes it go away." The little old lady bent down and blew on the girl's knee and whispered, "Go away, go away, no boo-boos here today!" The little girl smiled and that little old lady found her first friend.
+
+1: one: How did the girl hurt her knee?
+ A) she was in the street
+ B) she had no friends
+ C) she fell down
+ D) the old lady's bike hit her
+
+2: multiple: Why did the little girl smile?
+ A) the little old lady gave her "medicine" to make her knee feel better
+ B) she fell down in the street
+ C) she was friendly
+ D) the little old lady's bike was funny looking
+
+3: multiple: Why didn't the little old lady say hello to anyone when she going to the store?
+ A) she was too busy going to the store
+ B) she didn't have any friends
+ C) no one said hello to her first
+ D) she was little and old
+
+4: one: What did the old lady whisper to the girl's knee?
+ A) go away, go away, no boo-boos here today
+ B) all boo-boos hurt a little
+ C) what is wrong dear
+ D) oh dear
+
+
+***************************************************
+Story:            mc160.test.9
+Author:           1983083427
+Work Time(s):     218
+
+Emily and her brother Matthew went outside to play.  They brought their dog Bo with them, too.  Bo was holding a bone in her mouth.  Matthew threw a ball and Bo chased after it.  Emily laughed as Bo ran away.  Bo brought the ball back to Matthew.  Then Bo barked.  This time Emily threw the ball.  She was younger than Matthew, so the ball did not go as far.  Bo chased after the ball anyway, and Emily laughed again.  Matthew smiled at his little sister.  Bo ran back to Emily and dropped the ball at her feet.  Then Bo wagged her tail and licked Emily's face.  Emily giggled and scratched Bo's ears.  Then Matthew and Emily's mother came outside holding a bar of soap.  She told them that it was time for dinner and they had to come inside and wash their hands.  Just then, Matthew and Emily's dad came home from work.  Matthew and Emily ran to their dad.  They all walked inside together and Bo followed them in.  They would have to play ball tomorrow.
+
+1: multiple: Why did Matthew smile?
+ A) Because it was time for dinner.
+ B) Because his dad was home.
+ C) Because Emily was laughing.
+ D) Because Bo was a pretty dog.
+
+2: one: What is the name of the boy in the story?
+ A) Matthew
+ B) Bo
+ C) Mother
+ D) Emily
+
+3: one: What did Matthew throw?
+ A) A bar of soap
+ B) A bone
+ C) Emily
+ D) A ball
+
+4: multiple: Who told the kids to come inside for dinner?
+ A) Their father
+ B) Their friend
+ C) Their mother
+ D) Bo
+
+
+***************************************************
+Story:            mc160.test.10
+Author:           2332408363
+Work Time(s):     1864
+
+The family across the street has a cat. He is a cute black kitty named Dillon. The cat is about two years old, and the family has had him for about a year. He is an indoor cat who is not allowed to go outside. The children like to play with Dillon because he still acts like a kitten. Dillon jumps around, and chases flies, beetles and spiders. When he plays with the children, he sometimes uses his paws to attack them, but he doesn't try to hurt them with his claws. Dillon is a great cat but he has one problem: he likes to eat bread. The family only feeds him cat food, never human food like steak or potatoes. But the cat likes the smell of bread so much that he tries to find it everywhere he can. Dillon jumps up on the kitchen table when a sandwich is there, and tries to carry it away. He finds loaves of bread from the store on the floor and claws through the wrappers. The cat climbs into the bread cupboard looking for hot dog and hamburger buns. The family tries to make Dillon stop getting into the bread by spraying him with water when he goes after bread. They yell at him when he walks on the table. But Dillon does not listen. The kitty keeps trying to find bread to eat. The family thinks that the man who took care of Dillon when he was a very young kitten must have been a baker or cook, and that's why Dillon likes the smell and taste of bread so much!
+
+1: multiple: How does the family deal with Dillon's odd food liking?
+ A) feed him cat food
+ B) spray and yell at him
+ C) chase him
+ D) play with him
+
+2: one: What kind of food does Dillon like to eat that he shouldn't?
+ A) cheese
+ B) flies
+ C) bread
+ D) cat food
+
+3: multiple: What kinds of food does Dillon get into that he shouldn't?
+ A) steak and potatoes
+ B) fruits, and vegetables
+ C) flies, spiders and beetles
+ D) bread, buns, and sandwiches
+
+4: one: What color cat is Dillon?
+ A) orange
+ B) black
+ C) gray
+ D) white
+
+
+***************************************************
+Story:            mc160.test.11
+Author:           2371240061
+Work Time(s):     1009
+
+Kacey was a princess living in a magical kingdom with her parents and two little brothers. One day a monster bashed down the door to the castle when Kacey wasn't home and grabbed her youngest brother. "Give me your jewels or I eat him!" the monster yelled. Kacey's mom and dad called for the guards, but the monster bashed them down. "Give me my jewels!" the monster said. "Or I'll eat your other son too!" Kacey got home to see the big back of the monster in the door. "What do I do?" Kacey thought. Then she remembered a move she had seen a fighter use at the fair she had gone to. She also remembered she could lift a thousand pounds. "I know!" She ran up behind the monster, grabbed him around the waist and lifted. She picked the monster up into the air, then slammed him down on his head. He didn't move, and Kacey smiled at her parents. Then she saw their sad faces. Oh no! She had squashed her little brother.
+
+1: multiple: What does Kacey do and what bad thing happens because of it?
+ A) Kacey tries to climb up to the roof and falls breaking her leg
+ B) Kacey slams the monster accidentally squashing her brother
+ C) Kacey stabs the monster causing blood to dirty her dress
+ D) Kacey punches the monster hurting her hand
+
+2: one: How many brothers does Kacey have?
+ A) Three
+ B) Two
+ C) Four
+ D) One
+
+3: multiple: What does the monster say he'll do if he does not get the jewels?
+ A) Eat Kacey
+ B) Punch Kacey in the face
+ C) Kidnap Kacey's mom
+ D) Eat both of Kacey's brothers
+
+4: one: Why does Kacey attack the monster?
+ A) She knows she is very strong
+ B) She could not find the guards
+ C) She and the monster hate each other
+ D) She wants to show she is brave
+
+
+***************************************************
+Story:            mc160.test.12
+Author:           1226619403
+Work Time(s):     2028
+
+Susan wanted to have a birthday party. She called all of her friends. She has five friends. Her mom said that Susan can invite them all to the party. Her first friend could not go to the party because she was sick. Her second friend was going out of town. Her third friend was not so sure if her parents would let her. The fourth friend said maybe. The fifth friend could go to the party for sure. Susan was a little sad. On the day of the party, all five friends showed up. Each friend had a present for Susan. Susan was happy and sent each friend a thank you card the next week.
+
+1: multiple: How many friends did Susan call to invite to her party?
+ A) Five
+ B) Two
+ C) Three
+ D) Four
+
+2: multiple: Why was Susan sad?
+ A) Her friends did not get the thank you cards.
+ B) Her friends are sick.
+ C) Her friends did not bring her presents.
+ D) Her friends might not make it to her party.
+
+3: multiple: Why did Susan send out thank you cards to her friends?
+ A) Her friends sent her birthday cards.
+ B) Her friends brought her gifts at the party.
+ C) Just to thank them for being her friends.
+ D) To thank them for sending money to her.
+
+4: one: Why did Susan want to throw a party?
+ A) For her own birthday
+ B) For a friend going out of town.
+ C) For a thank you gift.
+ D) For a sick friend.
+
+
+***************************************************
+Story:            mc160.test.13
+Author:           153822240
+Work Time(s):     3001
+
+Little Tommy woke one morning to the sun shining and the birds singing.  He had a bird that would sit outside his window that he named Martha. He really liked Martha and he fed her some bread every morning. When he was done feeding Martha he would go and feed his best buddy ever, Sammy, a big hairy dog. Tommy really loved Sammy and hung out with him all day, every day. Today he thought they would go fishing and enjoy the sunshine. Tommy found his fishing pole, some worms, and a little lunch for the day. Off Tommy and Sammy went for the day. When they got to the fishing hole Sammy ran over to a rock and started barking with his hair standing up. Tommy ran to see what Sammy had found. Under the edge of the rock was a huge green toad. Tommy laughed and laughed at Sammy and calmed him down then picked up the toad. Sammy was very interested and licked the toad. Sammy found a new friend. Tommy took the toad home with them and named him Zoe the Toadie.
+
+1: multiple: what was Sammy barking at?
+ A) a dog
+ B) a cat
+ C) a bug
+ D) a toad
+
+2: multiple: what did Tommy and Sammy do for the day?
+ A) went fishing
+ B) went frog hunting
+ C) went biking
+ D) went rock climbing
+
+3: one: What was the first thing Tommy did in the morning?
+ A) Opened his window
+ B) Ate breakfast
+ C) Feed Martha
+ D) put on his clothes
+
+4: one: What is Tommy's dogs name?
+ A) Martha
+ B) Zoe
+ C) Tommy
+ D) Sammy
+
+
+***************************************************
+Story:            mc160.test.14
+Author:           3590859226
+Work Time(s):     1065
+
+It is almost summer time. Spring has been very long and very rainy. Winter was very warm and very long. In the winter the snows falls on the ground. It covers all the grass. It covers all the trees.  It covers all the flowers.  
+
+In the winter, the chipmunk goes to sleep. The chipmunk works all summer long to gather enough food for the winter. The chipmunk gathers berries. The chipmunk gathers pine cones. The chipmunk drops the pine cones off our roof and rolls them to her favorite hiding place. Boom!  Boom!  Boom! The pine cones sound so loud when they drop off the roof!
+
+The snow melts away in the spring. It is off the ground in our yard by the month of May. In June, there is still snow on the mountains. The snow on the mountains is still there until July.
+
+In May the grass starts to grow. In June, the flowers bloom again. In July, we go swimming in the lake.  
+
+We get to play all summer. We do not have to go to school. We do not have to gather pine cones for food. We get to play outside and we get to have cook outs. We are not chipmunks. We are children.
+
+Our mom makes us lemonade in the summer time. Our mom takes us to the beach. Our mom lets us have a lot of campfires. Our mom mows the lawn.
+
+It is summer time and now we play for 90 days and the chipmunk works for 90 days.
+
+In the winter we work and go to school and the chipmunk gets to sleep.
+
+I am glad it is summer and I am glad that I am a human child and not a chipmunk. I am glad that we get to be awake through all the seasons.
+
+I like spring. I like fall. I like winter. My favorite time of all is, for sure, summer!
+
+1: multiple: What do the children and chipmunk do for 90 days?
+ A) The children work and the chipmunk plays.
+ B) The children swim and the chipmunk makes lemonade.
+ C) The children go to school and the chipmunk sleeps.
+ D) What do the children and the chipmunk do for the children play and the chipmunk works.
+
+2: multiple: What does the chipmunk eat?
+ A) dirt and needles.
+ B) grass and trees.
+ C) berries and flowers.
+ D) berries and pine cones.
+
+3: one: Who gathers pine cones?
+ A) our mom
+ B) the flowers
+ C) The chipmunk
+ D) the children
+
+4: one: What does the chipmunk use to roll the pine cones?
+ A) the mountains
+ B) the roof
+ C) the snow
+ D) the grass
+
+
+***************************************************
+Story:            mc160.test.15
+Author:           423363067
+Work Time(s):     723
+
+A boy was trying to pick out what instrument that he wanted to play. His parents wanted him to pick a good one because playing an instrument was very important to them. So, the boy went to a music store with his parents. When he got there he didn't know where to start, so the boy walked up to the front and asked the man who worked there for help. First the worker brought the boy to a piano. "No way," said the boy, "that looks way too hard!" The worker laughed at this, and then brought out a guitar. The boy thought that guitars were too popular and wanted to play something that not many other people would play. Finally, the worker brought the boy to the drums. "That's it! That is a cool instrument that I could really get into." However, his mom wasn't so happy with this because she thought that he would be too loud. The boy's dad stepped in and talked her into it because he knew that if the boy liked what he did, he would do way better. Twenty years later, and the boy was the drummer in a band. It the most popular rock band in the world.
+
+1: multiple: What happened to the boy?
+ A) He quit the drums after 2 years.
+ B) He became a drummer in the most popular rock band in the world.
+ C) He didn't get the drums.
+ D) He switched to playing guitar.
+
+2: multiple: Why did the boy pick an instrument?
+ A) His brother played an instrument
+ B) He thought guitars were cool
+ C) His parents thought it was important
+ D) He wanted to join the school band
+
+3: one: Why did the boy not want to play the guitar?
+ A) They had too many strings
+ B) They were too popular
+ C) He had soft fingers
+ D) He couldn't reach the strings
+
+4: one: Who talked the Mom into letting the boy get the drums?
+ A) The Dad
+ B) The Worker
+ C) The drums came alive and talked to the mom.
+ D) The Boy
+
+
+***************************************************
+Story:            mc160.test.16
+Author:           1330926622
+Work Time(s):     2362
+
+Abby and Emma are outside one day to do something special for someone. They are picking flowers for their mother's birthday. 
+
+Right before they are finished picking their flowers to surprise their mother, the girls see that the clouds in the sky have turned grey and that the sun is no longer shining. It looks like it's going to rain soon.
+
+Abby looks down at her small hand of purple flowers and frowns.
+
+"What's wrong, Abby?" Emma asks, turning to look at her sister studying her flowers. 
+
+"Well," Abby says, "We got the flowers, but it looks like rain."
+
+Emma looks up at the cloudy sky and nods.
+
+"If it rains, we can't make mommy a mud pie," Abby adds with sadness. 
+
+Emma looks down at her own white flowers, counting them, and thinks. After making sure she had four flowers, she looks at Abby with an idea. 
+
+"What if we get the mud and take it in the house? That way if it rains, we can still make a cake," Emma says. 
+
+"Good idea!" Abby smiles, happy again. 
+
+Flowers in hand, the girls grab a yellow pail, placing their flowers on the porch, as they walk towards the mud to get what they need for their mother's birthday cake.
+
+1: multiple: What are Abby and Emma doing outside at the beginning?
+ A) picking flowers
+ B) walking
+ C) watching the sky
+ D) playing
+
+2: multiple: How many flowers does Emma have?
+ A) 3
+ B) 2
+ C) 4
+ D) 5
+
+3: one: What is the pail that the girls use to get the mud?
+ A) white
+ B) blue
+ C) pink
+ D) yellow
+
+4: one: Who's birthday is it in the story?
+ A) Emma
+ B) their father
+ C) Abby
+ D) their mother
+
+
+***************************************************
+Story:            mc160.test.17
+Author:           1489667752
+Work Time(s):     3073
+
+I am very hungry. I look for my mother.
+
+When is dinner? I ask.
+
+Dinner is at six, my mother says.
+
+What can we eat? I ask.
+
+We can pick food from our garden, she says. I help her pick corn, beans, and peas.
+
+The corn is yellow and white. The beans are small and brown. The peas are green and round.
+
+I put the beans in a basket. I put the peas in a bowl. Mother brings the corn. We go inside.
+
+I have dirty hands. I wash my hands with soap and water. The water is warm. My hands are now clean.
+
+Mother lets me stir the beans. I fill a pot with water. Mother puts the corn into the pot. She puts the pot on the stove. The water boils.
+
+Mary is my sister. Mary puts four plates on the table. Each plate is blue.
+
+We each eat two pieces of meat. I eat more corn than Mary. Mary eats more beans than our mother.
+
+What did you learn today? Mary asks.
+
+I can spell ten new words, I say.
+
+Mary can only spell two words.
+
+1: one: What color are our plates?
+ A) red
+ B) white
+ C) blue
+ D) green
+
+2: multiple: Which food was not eaten at dinner?
+ A) meat
+ B) peas
+ C) salad
+ D) corn
+
+3: multiple: In which way did I not help my mother?
+ A) pick corn
+ B) fill a pot with water
+ C) wash dishes
+ D) put peas in a bowl
+
+4: one: How many words can Mary spell?
+ A) one
+ B) four
+ C) zero
+ D) two
+
+
+***************************************************
+Story:            mc160.test.18
+Author:           4003291934
+Work Time(s):     1037
+
+Years back in a kingdom far away there lived a family in the woods.  This family had always lived in the woods.  Their father each day would travel into the woods and chop wood to take to the town.  The mother spent her day cleaning and taking care of their home and her three children.  The dad and his family had a good life.  They never wanted for much. The three kids went to school and had many friends in the town. One day there came a nasty storm to the woods.  This storm brought a lot of rain and flooded many areas in the city.  Many homes were under water.  The leader came to the dad and asked him to go out and cut some very large logs to place in the city to keep the water back.  The logs would be used to build a wall. The dad took his kids and his wife into the woods and cut down the largest trees they could find.  In the end the town was saved because of the wall and for their work the dad and his family were paid and could build a bigger home and had more children.
+
+1: multiple: What did the town leader ask the dad to do?
+ A) Get vegetables for everyone.
+ B) cut down large trees to build a wall to stop the water.
+ C) Become the leader of the town.
+ D) Run up and down the street to tell everyone.
+
+2: one: What does the dad do for work?
+ A) He makes clothes.
+ B) He cuts wood.
+ C) He grows vegetables.
+ D) He is a police man.
+
+3: multiple: What happened to the town?
+ A) A large fire burned it down.
+ B) People ran out of wood.
+ C) A big storm flooded it and the wall worked.
+ D) The town leader was lost.
+
+4: one: How many children does the family have?
+ A) Five
+ B) Two
+ C) three
+ D) One
+
+
+***************************************************
+Story:            mc160.test.19
+Author:           534571148
+Work Time(s):     3964
+
+One day a young boy went to visit a toy store. In the toy store the young boy found many fun toys. One toy that the boy really liked was a small blue toy truck. The small blue toy truck was a lot of fun to play with, and made a lot of funny noises. The young boy played with the toy truck for a long time, and then another little boy showed up and began to play with a little red car. The two boys ended up becoming friends and played with the toys for a long time. They ended up becoming good friends and had many play dates together over the months ahead. On one play date the two boys built a large tree house and called it the tree castle. They played for hours in the tree castle and always found something fun to do when they played together. They were glad that they met in the toy store and became life-long friends.
+
+1: one: What was the color of the toy car?
+ A) green
+ B) blue
+ C) red
+ D) pink
+
+2: multiple: Where did the boys meet, and what did they play with?
+ A) park, and a blue toy truck and red toy car
+ B) toy store, and a blue toy truck and red toy car
+ C) beach, and a blue toy truck and red toy car
+ D) sand box, and a blue toy truck and red toy car
+
+3: one: What was the color of the toy truck?
+ A) yellow
+ B) green
+ C) red
+ D) blue
+
+4: multiple: What did the boys build and what did they call it?
+ A) a tree house, and the tree palace
+ B) a tree house, and the tree castle.
+ C) a fort, and the tree castle.
+ D) a tree house, and the tree fort
+
+
+***************************************************
+Story:            mc160.test.20
+Author:           423363067
+Work Time(s):     794
+
+One day a boy was looking for a school lunch in the fridge. He was looking for something that was good for him, but also something that tasted good. He was going to school, and needed something to keep him going and doing well in class. Recently he had been eating cookies for lunch, and was tired by the end of the day. The cookies came from the school lunchroom, and his mom didn't know about them. Finally he got tired of cookies and thought he needed something good for him. So, he asked his mom to come help him out. First he got a doughnut. "That's not good for you at all!" said his mom. So, his mom got a big bag of broccoli. "Yuk, I hate the taste of broccoli," said the boy. They looked and looked and couldn't find anything that looked good to the boy that was also good for him. Finally, they saw the perfect thing: some grilled chicken from the party on the weekend. It was so delicious the first time, and it tasted great cold for lunch. The chicken had the types of food he needed to get through the day.
+
+1: one: Who did the boy ask to help him with his choice?
+ A) Mom
+ B) Sister
+ C) Brother
+ D) Dad
+
+2: multiple: What did the boy have for lunch before the story?
+ A) Hamburgers
+ B) Pizza
+ C) Salads
+ D) Cookies
+
+3: multiple: Which food did the boy not find in the fridge?
+ A) Bacon
+ B) Doughnut
+ C) Broccoli
+ D) Grilled Chicken
+
+4: one: What did the boy end up picking to eat?
+ A) Broccoli
+ B) Grilled Chicken
+ C) A Salad
+ D) Steak
+
+
+***************************************************
+Story:            mc160.test.21
+Author:           262698196
+Work Time(s):     3368
+
+One day, Phoebe woke up and found that her house had been broken into. Her front door was wide open. She went into the living room and saw that her television set and stereo were missing. She checked the kitchen, but didn't find anything missing there except for a clock. Then she saw that her purse had been stolen too. She called the police to report what had happened. The police officer told her that there had been a lot of cases like this in her neighborhood lately, and they were looking for the criminals. Phoebe went into her bedroom and started to cry. She had no money to buy a new television set or stereo. She was scared that the robbers might try to break into her house again. She called her friend Mary and asked her what to do. Mary told Phoebe to change her front door lock right away. She said she knew a detective who could try to find the robber who had broken into her house. Phoebe thanked Mary, and said she felt safe knowing that there was someone who could help her catch the robber so he wouldn't do it again.
+
+1: multiple: Why did Phoebe start to cry after she spoke to the police?
+ A) Her door was broken
+ B) A robber attacked her
+ C) She had no money to buy a new television set or stereo, and she was scared that the robbers might try to break into her house again.
+ D) There was a robber in her house
+
+2: one: Who was the first phone call that Phoebe made to after she found that her house had been broken into?
+ A) Her friend Mary
+ B) The police
+ C) The robber
+ D) A detective
+
+3: multiple: What did Mary tell Phoebe to do?
+ A) Change her lock and call a detective
+ B) Buy a new television set
+ C) Call the police
+ D) Buy a new stereo
+
+4: one: What was missing from Phoebe's living room?
+ A) A book
+ B) A television set and stereo
+ C) A clock
+ D) A purse
+
+
+***************************************************
+Story:            mc160.test.22
+Author:           3590859226
+Work Time(s):     1049
+
+Jim and Linda are our neighbors.  Jim and Linda have an old dog named Reggie.  We love our neighbors.  They are like the perfect grandparents.  
+We watch Reggie for them when they go out of town to see their children and grandchildren.  Reggie is so fun to have around.  He is 14 years old.  We have 3 other dogs and Reggie is older than all of them.  They all listen to what Reggie tells them to do.  It is fun to see them respect him.
+
+We are watching Reggie now.  He is staying with us for 3 weeks.  He likes to go for rides in the car.  He likes to go for walks.
+
+This time, when Jim and Linda dropped Reggie off, Jim picked up mom's guitar and played us a song.  He was really good!  Then Jim and Linda sang a song for us.
+
+I can see why Reggie misses them when they are gone.  They are so nice!  We give Reggie lots of love so that he is happy at our house when they are on vacation.
+
+He likes our dogs and cats.  We have a big black dog named Able.  We have a little dog named Mudpuppy and we have a puppy named Goldberry.  We have two cats.  One of our cats is named Glitch.  She has lots of colors.  We also have a white kitten named Vex.
+
+One of the best things about watching Reggie is that we know when Jim and Linda come home, Linda bakes us a cherry pie for taking care of Reggie.  She makes delicious pie.
+We are very lucky to have such nice neighbors!
+
+1: one: Who are Jim and Linda?
+ A) dogs
+ B) our neighbors
+ C) circus clowns
+ D) pilots
+
+2: multiple: How many dogs and cats do we have?
+ A) 3 dogs and 2 cats.
+ B) 2 dogs and 3 cats.
+ C) 1 dog and  cats.
+ D) 4 dogs and no cats.
+
+3: multiple: What did Jim and Linda do when they dropped Reggie off?
+ A) Lina played piano and Jim sang.
+ B) Linda danced and Jim told jokes.
+ C) Linda brought us a pie.
+ D) Jim played guitar and they both sang.
+
+4: one: What is the name of Jim and Linda's dog?
+ A) Charles
+ B) Spot
+ C) Reggie
+ D) Bow Wow
+
+
+***************************************************
+Story:            mc160.test.23
+Author:           534571148
+Work Time(s):     949
+
+This is the story of a young girl and her dog. The young girl and her dog set out a trip into the woods one day. Upon entering the woods the girl and her dog found that the woods were dark and cold. The girl was a little scared and was thinking of turning back, but yet they went on. The girl's dog was acting very interested in what was in the bushes up ahead. To both the girl and the dog's surprise, there was a small brown bear resting in the bushes. The bear was not surprised and did not seem at all interested in the girl and her dog. The bear looked up at the girl and it was almost as if he was smiling at her. He then rested his head on his bear paws and went back to sleep. The girl and the dog kept walking and finally made it out of the woods. To this day the girl does not know why the bear was so friendly and to this day she has never told anyone about the meeting with the bear in the woods.
+
+1: one: This is a story of a girl and what kind of animal?
+ A) Cat
+ B) Dog
+ C) Frog
+ D) Mouse
+
+2: one: The girl and her dog went walking into what?
+ A) A field
+ B) The woods
+ C) A park
+ D) A garden
+
+3: multiple: What kind of animal did the girl and dog meet, and what did the animal do?
+ A) a cat and the cat clawed
+ B) a bear and the bear smiled
+ C) a horse and the horse jumped
+ D) a bear and the bear chased them
+
+4: multiple: What was it like in the woods, and what did the girl feel like?
+ A) breezy and the girl was excited
+ B) Dark and cold, and the girl was happy
+ C) Wet and warm and the girl was scared
+ D) Dark and cold, and she was Scared
+
+
+***************************************************
+Story:            mc160.test.24
+Author:           3916450669
+Work Time(s):     327
+
+Once upon a time Jimmy had a mother who told him that he was good at music.  Jimmy wanted to play music.  He did not know which instrument to play, so he tried a piano first.  The piano went like a sound.  Then he tried a guitar.  The guitar played.  His brother told him that the piano was better to start, so Jimmy played the piano.  He hammered on the keys.  Jimmy's brother liked this, but mom did not like this.  Jimmy tried playing very quiet.  Jimmy's mom liked this, but Jimmy's brother did not like this.  Jimmy tried playing in the middle.  Jimmy liked this, and Jimmy's mom liked this, and Jimmy's brother liked this.  It was great.
+
+1: multiple: Who did Jimmy please first by playing the piano loud?
+ A) Brother
+ B) Jimmy
+ C) Mom
+ D) Dad
+
+2: multiple: Who did Jimmy please last when he played the piano in the middle volume?
+ A) Mom
+ B) Just Jimmy
+ C) Jimmy, his mom, and his brother
+ D) Brother
+
+3: multiple: What was the second instrument that Jimmy tried to play?
+ A) Flute
+ B) Piano
+ C) Accordion
+ D) Guitar
+
+4: multiple: What was the instrument that Jimmy played first?
+ A) Oboe
+ B) Flute
+ C) Piano
+ D) Guitar
+
+
+***************************************************
+Story:            mc160.test.25
+Author:           1694779733
+Work Time(s):     4040
+
+It was very warm for February. Anna and her brother, John, played outside in the beautiful, sunny weather. Dad was washing his car. When Mom came home with the groceries, Dad sent the kids to help carry bags. They ran to the garage to help her. But when they got there, Mom was kneeling on the ground near where their bikes were parked, petting a gray cat with long hair.
+
+"Can we pet her?" Anna asked.
+
+"Be careful," Mom said. Anna knew these directions were for her brother, who was often rough with things.
+
+"She's fat," John giggled.
+
+"She's not fat. She's pregnant," Mom told him.
+
+"What's that mean?" John asked.
+
+"It means she's going to have kittens." Anna said. "Can we keep her?" Anna begged. "Please?"
+
+Mom and Dad looked at each other.
+
+"We could take her to the pound, or she could stay outside here," Mom said. "Long-haired cats give you rashes."
+
+"But you always said you wanted one," Dad told Mom. "Short-haired cats don't bother me, and if she stays here, we have to give the kittens away. Let's send her over to your parents' farm. She can live in the barn, and then if one of the kittens has short hair, we can keep that one."
+
+The kids were excited. They named the cat Socks because she had white feet, and they went to visit her every day. Socks had her kittens in April, and, to everyone's excitement, two of them had short hair. Dad said that since they were brother and sister, they could keep both kittens. Anna named her kitten Lucky, and John named his kitten Spike. The other two kittens, Butterscotch and Squeakers, stayed at Grandma and Grandpa's house, but Anna and John each got a kitten of their very own.
+
+1: one: What month was it when the cat arrived?
+ A) April
+ B) March
+ C) February
+ D) January
+
+2: multiple: Why did the kids go to the garage?
+ A) Dad sent them to get some rags to help wash the car.
+ B) They wanted to see the cat.
+ C) Dad told them to help Mom with the groceries.
+ D) They wanted to ride their bikes.
+
+3: multiple: What happened to the mother cat?
+ A) She lived in John and Anna's grandparents' barn.
+ B) She went to the pound.
+ C) The family kept her, but gave the kittens away.
+ D) The family kept her and her kittens.
+
+4: one: What did they name the mother cat?
+ A) Socks.
+ B) Spike
+ C) Lucky
+ D) Butterscotch
+
+
+***************************************************
+Story:            mc160.test.26
+Author:           1460358657
+Work Time(s):     1031
+
+Shelly wanted a puppy. She asked her mommy and daddy every day for one. She told them that she would help take care of the puppy, if she could have one. Her mommy and daddy talked it over and said that they would get Shelly a new puppy. 
+
+Her mommy took her to the dog pound so that she could choose one that she wanted. All the puppies at the dog pound need a loving home.  
+
+Shelly went to every cage and looked each puppy in the eyes and talked to each one. After each one, she told her mommy, "No, this isn't the one for me."
+
+Finally, she saw a black and white spotted one that she fell in love with. She screamed, "Mommy, this is the one!" Her mommy asked the worker to take the puppy out so that Shelly could make sure. Shelly and the puppy fell in love with each other right away.
+
+Shelly and her mommy took the black and white spotted puppy home with them. Shelly was so excited that she talked all the way home. After thinking hard, Shelly had a name for her new puppy, Spot.
+
+Now, Shelly has a new best friend and they play together every day when Shelly gets home from school.
+
+1: multiple: Who had to let Shelly get a new puppy?
+ A) Shelly
+ B) her mommy and daddy
+ C) her mommy
+ D) her daddy
+
+2: multiple: How did Shelly find the right puppy?
+ A) Looking in each cage and then getting the worker to take the black and white one out of the cage
+ B) Looking in each cage and drawing straws
+ C) Getting in each cage and asking her mommy to take a picture
+ D) Riding a bike past all the cages
+
+3: one: Who took Shelly to the dog pound to get her new puppy?
+ A) her mommy and daddy
+ B) her mommy
+ C) a worker
+ D) her daddy
+
+4: one: What did Shelly name her new puppy?
+ A) Shelly
+ B) daddy
+ C) mommy
+ D) Spot
+
+
+***************************************************
+Story:            mc160.test.27
+Author:           423363067
+Work Time(s):     547
+
+Today is Josh's birthday, so he invited all of his friends over for his party. Josh wanted it to be the best party ever, so he helped his mom plan it so it would be fun. They first picked that it would be a pool party, since they had a huge pool in their backyard. So they told everybody to wear their bathing suits. They went to the sports store and got a basketball hoop that they could put in the pool, so people could play water basketball. Then they went to the food store and picked out all of Josh's favorite foods. They got chicken, hamburgers, hot dogs so they could cook everything on the grill. When it came time for the party, Josh's best friend Ryan was the first to get there. Soon, all of Josh's friends were there and everybody had a great time. The weather was perfect and the food was delicious. It was the best seventh birthday ever!
+
+1: one: How old was Josh turning?
+ A) 10
+ B) 8
+ C) 7
+ D) 9
+
+2: multiple: What food did Josh and his mom get at the store?
+ A) Broccoli
+ B) Hot Dogs
+ C) Corn
+ D) Cake
+
+3: one: Who was the first person to get to the party?
+ A) John
+ B) Amanda
+ C) Jane
+ D) Ryan
+
+4: multiple: Why was there a pool party?
+ A) It was Josh's Birthday
+ B) It was winter
+ C) It was a really hot super day
+ D) It was a holiday
+
+
+***************************************************
+Story:            mc160.test.28
+Author:           3638994496
+Work Time(s):     1149
+
+Jenny and Katie were very happy.  Their mom was taking them to the circus.  She had told them about it on Tuesday.  They were going on Saturday afternoon.  Their dad said they had to do their chores Saturday morning first or they would not get to go.  They were going to get up early and get them done.  They had been looking forward to this for the last few days.  They had told their grandma and grandpa all about it when they saw them on Wednesday.  It was hard to sleep, they were so excited and could not wait to go.  They could not wait to get an elephant ride.  They did this last year and thought it was so fun. Jenny wanted to see the monkeys, too; they were her favorite.  Katie couldn't wait to see the lions; she thought they were the best.
+
+1: one: What animal couldn't Katie wait to see?
+ A) the lions
+ B) the bears
+ C) the monkeys
+ D) the elephants
+
+2: multiple: When were Jenny and Katie going to the circus?
+ A) Tuesday morning
+ B) Tuesday afternoon
+ C) Saturday afternoon
+ D) Saturday morning
+
+3: one: Who is taking Jenny and Katie to the circus?
+ A) their dad
+ B) their grandpa
+ C) their mom
+ D) their grandma
+
+4: multiple: Why couldn't Katie and Jenny sleep?
+ A) They could not wait to go to the circus.
+ B) They had to do chores.
+ C) They had to feed the elephants.
+ D) They had a pet monkey.
+
+
+***************************************************
+Story:            mc160.test.29
+Author:           953179226
+Work Time(s):     1811
+
+Once upon a time there was a bird named Lily. She lived in a tree with her parents. One day Lily flew to her friend Molly's tree nest, but she didn't ask for her parents' permission. They were having lots of fun playing that the time passed by so fast. They played tag. They played hide and seek. They even played racing to see who could fly the fastest. Lily's parents started to get very worried when she didn't return home for dinner. They called neighbors and friends, and even called Molly but they didn't hear the phone ringing. It wasn't until Molly's mom called her down to eat that Lily saw that it was almost past dinner time. Lily told Molly she had to go home. When Lily got home her parents were crying and very upset because they thought something happened to her. Lily felt very bad for not telling her parents, and she said she would never leave without telling them again. Her parents forgave her and sent her to bed. Lily went right to sleep.
+
+1: multiple: Where did Lily eat dinner?
+ A) at home
+ B) she didn't eat dinner
+ C) at Jake's house
+ D) at Molly's house
+
+2: multiple: What games did Molly and Lily play?
+ A) tag, hide and seek, and racing
+ B) racing and tag
+ C) no games
+ D) tag and hide and seek
+
+3: one: What was Lily?
+ A) a bear
+ B) a bird
+ C) a fish
+ D) a frog
+
+4: one: What was the name of Lily's friend?
+ A) Jake
+ B) Molly
+ C) Megan
+ D) James
+
+
+***************************************************
+Story:            mc160.test.30
+Author:           4099112930
+Work Time(s):     1807
+
+John was in the third grade, and nine years old. Every day he had to walk home from school. There were some kids in his class who were mean to him, and during the winter they would throw snowballs at him. John could have told the teacher, but one of the kids was a very pretty girl. She was mean, but John liked her because she was pretty and did not want her to get in trouble. 
+
+One day, his teacher asked John to stay after class to wipe off the chalkboard and to empty the pencil sharpener. By the time he was done, the other kids had gone home. They could no longer throw snowballs at him. John did not mind helping out his teacher, and he soon stayed after class every day. 
+
+John was not very good at math, and sometimes his teacher would help him when he stayed after school. She said if John could help her out for at least two weeks, he could pass his math class. John thought it was a good deal, and ended up being much better at math.
+
+1: one: How does John get home from school?
+ A) Takes the bus
+ B) Rides his bike
+ C) His teacher gives him a ride
+ D) Walks
+
+2: one: What grade is John in?
+ A) Second
+ B) Third
+ C) First
+ D) Ninth
+
+3: multiple: Why did the other kids stop throwing snowballs at John?
+ A) The teacher stopped them.
+ B) The pretty girl told them not to.
+ C) They did not want to get in trouble.
+ D) They were gone when John got out of school.
+
+4: multiple: How did John get better at math?
+ A) other kids helped him
+ B) he read his math book
+ C) he studied a lot
+ D) his teacher helped him
+
+
+***************************************************
+Story:            mc160.test.31
+Author:           2663201670
+Work Time(s):     1344
+
+The day was sunny and warm.  The birds were chirping and dancing around happily.  Ashley, the daughter of the dressmaker in town, was walking and whistling and enjoying the day, carrying her fishing pole.  She was on her way to the creek to meet her friend Ethan to go fishing.  She was so excited; she loved to fish!  As she was walking she took a time out to smell the flowers. She chose to pick some for her mother.  "Mom may be so happy." she said out loud.  
+
+"Pleased with what?" she heard behind her.  
+
+Ashley jumped, dropping the flowers.  "Oh Ethan!  Why did you do that?" she asked.  
+
+"I'm sorry, I scared you" Ethan stated.  "I didn't mean to, I was curious that's all."  
+
+Ashley turned to Ethan "That's alright, I was picking flowers for my mom, let's go fishing before it's too late".  
+
+Ashley and Ethan skipped off to the creek and had a wonderful time fishing. Even if they didn't catch anything.
+
+1: multiple: Where was Ashley going? Who was she going to meet?
+ A) To the creek to sun-bathe.
+ B) To the flower shop to buy her mom flowers.
+ C) To the creek to fish, and to meet Ethan.
+ D) To the dress shop where her mom worked.
+
+2: one: What happened when Ethan saw Ashley?
+ A) They laughed.
+ B) He scared her.
+ C) She saw him before he saw her.
+ D) He gave her a hug.
+
+3: one: What is the name of the little girl?
+ A) Ethan
+ B) Ashley
+ C) Emma
+ D) Isabella
+
+4: multiple: Did Ashley and Ethan catch any fish? If so how many?
+ A) Two
+ B) One
+ C) Three
+ D) No
+
+
+***************************************************
+Story:            mc160.test.32
+Author:           259176131
+Work Time(s):     864
+
+Bob had a son that was named John. John owned the only red dog. There was a blue dog named Jim. The red dog was named Woof. John's mother and Bob's wife was named Gail. They all lived in a tree. There was a family down the street. They were a couple named Frank and Francine. Bob hated his neighbors. One day Bob went to Frank's house and threw toilet paper all over his trees. Frank got back at Bob by stealing his son's dog. This is how the long fight between Frank and Bob began. It lasted for ten years until Bob passed away from a bad heart attack. Frank knew he needed to say sorry to Bob's wife for the years of trouble. So Frank did apologize to Bob's wife. After this everything was great between the two families for the rest of their days on this Earth.
+
+1: one: What color was Jim?
+ A) tree
+ B) Earth
+ C) blue
+ D) red
+
+2: one: What was Bob's son's name?
+ A) John
+ B) Francine
+ C) Frank
+ D) Bob
+
+3: multiple: Who did Frank apologize to?
+ A) Woof
+ B) John
+ C) Bob
+ D) Gail
+
+4: multiple: What was John's dog's name?
+ A) Gail
+ B) Bob
+ C) Woof
+ D) Frank
+
+
+***************************************************
+Story:            mc160.test.33
+Author:           2609709702
+Work Time(s):     10139
+
+Yesterday, Emily and Evelyn went to the zoo with their mom. They left the house right after breakfast so that they would be there when the zoo opened. Once inside, they raced to see the monkeys swinging around their cages. There were even two baby monkeys!  The girls also enjoyed feeding birds in the walk-in bird cage. The birds were very interested in picking seeds from the popsicle stick that Emily held out to them. Next, it was time to stop for ice cream. Each girl chose a small cup of soft ice cream. Emily chose a swirl of chocolate and vanilla and Evelyn had chocolate. Ice cream at the zoo was the perfect treat on a hot summer day.  The best part of the girls' visit was the giraffe area. They walked past rhinos and tortoises to get to the giraffe area which was on a raised deck. The giraffes stretched their necks up to the deck to eat leaves and hay that were placed there for them. Emily and Evelyn bought special crackers to feed to the giraffes. Emily liked that she could pet the giraffes when they reached out to grab the crackers with their long tongues. Evelyn liked to watch the giraffes, but did not want to feed one herself. After feeding the giraffes, the girls left the zoo, hot and tired and ready to return soon!
+
+1: one: What type of animal did Emily and Evelyn visit first at the zoo?
+ A) birds
+ B) giraffes
+ C) monkeys
+ D) rhinos
+
+2: multiple: Who enjoyed feeding crackers to the giraffes?
+ A) the mom
+ B) Emily
+ C) Evelyn
+ D) both Emily and Evelyn
+
+3: one: What did Emily feed to the birds?
+ A) a popsicle
+ B) crackers
+ C) ice cream
+ D) seeds
+
+4: multiple: What type of ice cream did Evelyn eat?
+ A) a cup of chocolate ice cream
+ B) a chocolate ice cream cone
+ C) a cup of chocolate and vanilla swirled
+ D) a cup of vanilla ice cream
+
+
+***************************************************
+Story:            mc160.test.34
+Author:           2479256243
+Work Time(s):     11308
+
+Today is Tom's first day of school. He is very excited to go to school. He gets out of bed and goes to the bathroom. He brushes his teeth. He also brushes his hair. Tom grabs his backpack from the table. He then grabs his pencil and goes to the bus stop. Tom sat next to Jim on the bus. Jim is Tom's best friend. They have known each other since they were two years old. They got off the bus and got to school. Tom was so excited to get to school, he left his pencil on the bus. He had to ask Bethany for a pencil. Bethany did not have a pencil so he asked Dena. She gave him a pencil. He finished his work and the bell rang. His favorite part of school was recess.  He bought a snack at recess then went to play. He had such a good time at recess he did not want the day to end. After school, Tom and Jim rode the bus home. He said bye to Jim and went inside. He was tired after a long day but was ready for school tomorrow.
+
+1: one: What is Tom's favorite part of school?
+ A) Recess
+ B) Math
+ C) Bus ride
+ D) Snacks
+
+2: multiple: What did Tom brush when he woke up?
+ A) The table
+ B) Backpack
+ C) Hair and Teeth
+ D) Pencil
+
+3: multiple: Who did Tom ask for a pencil?
+ A) The teacher
+ B) Jim
+ C) his mom
+ D) Bethany and Dena
+
+4: one: Who is Tom's best friend?
+ A) Jim
+ B) Tom
+ C) Dena
+ D) Bethany
+
+
+***************************************************
+Story:            mc160.test.35
+Author:           3968165106
+Work Time(s):     10281
+
+Joe was at home playing with his toys. He was bored because he was playing with his same old toys. He had done everything he could do with his toys. Joe had his toys for a long time. Joe asked his mom if she could give him money. There was a new action toy that he saw on the TV that he really wanted to have. The action toy was of the superhero he loved the most. It was painted red with a blue bow and arrow. He wanted to go to the mall right away to get the toy because there was only one left in the store. His mom told him that she would take him to the mall later in the day. She told him he would have to eat his dinner first. Joe was very happy that he would get his new toy. After he ate dinner, Joe's mom took him to the mall. On the way to the mall, there was a cat that was stuck in a tree. The fire truck blocked the street to save the cat. Joe became sad because he thought that he was never going to get his toy. The fireman saved the cat and moved the truck out of the way. Joe's mom kept driving to the mall. Joe got his toy and he was happy.
+
+1: multiple: When did Joe's mom take him to the mall?
+ A) the next day
+ B) in five hours
+ C) Later in the day after he ate dinner
+ D) in a month
+
+2: one: What did Joe want his mom to give him?
+ A) clothes
+ B) a hug
+ C) food
+ D) Money
+
+3: multiple: Why did Joe become sad?
+ A) he ate his vegetables
+ B) the toy was gone
+ C) A fire truck blocked the street to save a cat
+ D) there was a car accident
+
+4: one: How many of the toy Joe wanted was at the store?
+ A) one
+ B) five
+ C) two
+ D) three
+
+
+***************************************************
+Story:            mc160.test.36
+Author:           1329323384
+Work Time(s):     1063
+
+Rain, rain everywhere!
+
+Mary and June were best friends; they played together every day.  One day when June came over to play it was raining.  Mary told Jane that the rain was mean.  
+
+"How is the rain mean?" asked June.  
+
+"It's everywhere!" said Mary. "It's raining on the sidewalk, it's raining on the swings, it's raining on my outside toys!  It's even raining on my dog Dean!"  
+
+June started to giggle.  Mary did not like the rain, and Mary did not like that June that rain was funny!
+
+"It's not funny!" said Mary.  
+
+June stopped giggling. "Don't be silly, Mary. I don't think the rain is funny. I think that you are funny, Mary! The rain is not mean; it's helping the plants and trees stay alive."  
+
+"Really?" said Mary. "How is the rain helping the plants and trees?"
+
+June went to her backpack and pulled out a big book, the front of the book had a picture on a tree. June used the book to show Mary how the rain was good for the earth. When they were done reading the book, Mary smiled. "I still don't like the rain, but I guess it's ok sometimes."
+
+1: one: Did June have a book in her backpack?
+ A) June did not have a backpack.
+ B) Yes, June had a book in her backpack.
+ C) No, June had a tree in her backpack.
+ D) Mary had the book.
+
+2: multiple: Why was June giggling?
+ A) Because Mary had a dog.
+ B) Because she thought Mary was funny.
+ C) Because it was raining.
+ D) Because the rain was ticking her.
+
+3: one: Were Mary and June friends?
+ A) June is Mary's sister.
+ B) Yes, Mary and June were friends.
+ C) No, Mary and Just don't like each other.
+ D) Mary is Junes Dog.
+
+4: multiple: Why did Mary think the rain was mean?
+ A) Because it made June giggle.
+ B) Because it was getting her wet.
+ C) Because it was getting her cat wet.
+ D) Because it was raining on her outside toys, the sidewalk, the swings and her dog Dean.
+
+
+***************************************************
+Story:            mc160.test.37
+Author:           1844466225
+Work Time(s):     1808
+
+Jimmy didn't eat breakfast. Because he didn't eat breakfast he was very hungry and could not stop thinking about food. He was thinking about all of the things that he liked to eat the most. He was thinking about breakfast foods like bacon and eggs but he was also thinking about lunch and dinner foods like pizza and macaroni and cheese. Jimmy was even thinking about some of his favorite desserts like chocolate cake and cherry pie. He was even thinking about vanilla pudding and he doesn't even like vanilla pudding. Jimmy was so hungry that he was having a hard time playing with his friends. Jimmy was playing with Tommy, Timmy and Suzy. Timmy chose not to play. Jimmy wasn't having any fun because he was so hungry. Jimmy was playing hide and go seek with Tommy and Suzy but he could not find any good places to hide. Jimmy did not want to play hide and seek. If he had to play a game he wanted to play tag but what he really wanted to do was eat lunch.
+
+1: multiple: Jimmy wasn't playing hide and seek with which of his friends?
+ A) Tommy
+ B) Timmy
+ C) Suzy
+ D) Jimmy
+
+2: multiple: Jimmy likes all of the following desserts except.
+ A) Cherry Pie
+ B) Chocolate cake
+ C) Vanilla Pudding
+ D) Pizza
+
+3: multiple: What did Jimmy really want to do the most?
+ A) have fun
+ B) Play hide and go seek.
+ C) Eat lunch
+ D) Play tag
+
+4: multiple: What meal did Jimmy not eat?
+ A) Dinner
+ B) Lunch
+ C) Dessert
+ D) Breakfast
+
+
+***************************************************
+Story:            mc160.test.38
+Author:           60059320
+Work Time(s):     728
+
+Oliver is a cat. He has a sister called Spike. Oliver and Spike like to play outside. They chase bugs in the backyard. When they get tired, they sleep in the sun. They don't like to go outside when it is raining. On rainy days Oliver and Spike sit in the window. They watch the rain through the window. Oliver is big and has grey and white fur. His nose is pink. Spike is small and has grey fur. Her nose is the same color as her fur. Spike is round. Oliver is tall. Oliver likes to eat. He worries when there is no food in his bowl. Spike likes to roll in dirt. Sometimes she is smelly.  At Christmas time they like to play with the Christmas tree and presents. Oliver climbs the Christmas tree and breaks ornaments. Spike plays with the presents and unwraps them with her claws.
+
+1: one: What does Spike like to roll in?
+ A) Perfume.
+ B) Chocolate.
+ C) Snow.
+ D) Dirt.
+
+2: multiple: When do Oliver and Spike watch the rain through the window?
+ A) On rainy days.
+ B) On Christmas Day.
+ C) When they are tired.
+ D) On Tuesdays.
+
+3: one: What do Oliver and Spike chase in the backyard?
+ A) Bugs.
+ B) Mice.
+ C) Birds.
+ D) Dogs.
+
+4: multiple: What color is Spike's nose?
+ A) Grey.
+ B) White.
+ C) Purple.
+ D) Pink.
+
+
+***************************************************
+Story:            mc160.test.39
+Author:           1160021820
+Work Time(s):     2856
+
+Julia gets an allowance from her parents every week for different chores she does every day. The big chore she must do is to feed the dog after school.  Julia had a busy day at school and had many tests to complete.  When she got home, she forgot to feed her dog, Buddy.  Her parents had to feed the dog later.  The next day, she forgot again.  She saw her parents were feeding Buddy for her each night that she forgot to do it.  Julia stopped doing her chore because she knew her parents would take care of it for her. Julia used her extra time to play every day after school.  At the end of the week, Julia was excited. She had been wanting a new doll that had come out in the stores.  Her friends all had them, and she wanted one, too. But at the end of the week, Julia didn't get an allowance. Her parents told her it was because she had not done her big chore all week, and had played instead. Julia did not get the toy she wanted that week.
+
+1: one: What was the dog's name?
+ A) Julia
+ B) Bart
+ C) Buddy
+ D) Brindle
+
+2: multiple: Why did Julia not get her allowance?
+ A) Because she was very loud.
+ B) Because she had bad grades.
+ C) Because she wanted a new doll.
+ D) Because she did not feed the dog.
+
+3: one: What was Julia's big chore in the story?
+ A) Dusting the house.
+ B) Feeding the dog.
+ C) Doing the dishes.
+ D) Washing her clothes.
+
+4: multiple: Why did Julia want her allowance?
+ A) She wanted to buy candy.
+ B) She wanted to buy Buddy a toy.
+ C) She wanted to save it up for a game.
+ D) She wanted the new doll all her friends had.
+
+
+***************************************************
+Story:            mc160.test.40
+Author:           1416462465
+Work Time(s):     834
+
+There once was an elephant named Ellie.
+
+She really liked to eat peanuts. 
+
+She lived with a circus and performed with clowns.
+
+One day she was really hungry and could not find any peanuts. 
+
+She asked the lion, "Do you have any peanuts?"
+
+The lion said, "Sorry, I don't like peanuts, but the squirrel may have some."
+
+Ellie went looking for the squirrel and along the way saw a little girl.  
+
+The little girl was crying.
+
+Ellie asked the little girl, "Why are you crying?"
+
+The little girl, Ava, said, "I lost my parents!"
+
+The elephant put Ava on her back and said, "I can help you look for them."
+
+They looked high and low for Ava's parents.
+
+Ellie made a loud sound with her nose and Ava's parents came to see what it was!
+
+Her parents were so happy to find Ava and so was Ellie.
+
+Ellie's stomach began to growl and Ava heard it.
+
+She dug into her parent's bag and brought out a bag of peanuts!
+
+Ellie ate the peanuts and everyone lived happily ever after.
+
+1: one: What does Ellie like to eat?
+ A) leaves
+ B) cotton candy
+ C) peanuts
+ D) popcorn
+
+2: multiple: Why was Ava crying?
+ A) She was mad.
+ B) She was hungry for peanuts.
+ C) She lost her parents.
+ D) She fell down.
+
+3: one: Where does Ellie live?
+ A) City
+ B) Forest
+ C) Zoo
+ D) Circus
+
+4: multiple: Why did Ava dig for a bag of peanuts?
+ A) Ellie's stomach growled.
+ B) The clowns wanted it.
+ C) Ava was hungry.
+ D) There was a squirrel.
+
+
+***************************************************
+Story:            mc160.test.41
+Author:           2532825825
+Work Time(s):     5831
+
+Once upon a time, in a barn near a farm house, there lived a little white kitten named Cotton. Cotton lived high up in a nice warm place above the barn where all of the farmer's horses slept.  But Cotton wasn't alone in her little home above the barn, oh no. She shared her hay bed with her mommy and 5 other sisters. All of her sisters were cute and fluffy, like Cotton. But she was the only white one in the bunch. The rest of her sisters were all orange with beautiful white tiger stripes like Cotton's mommy. Being different made Cotton quite sad. She often wished she looked like the rest of her family. So one day, when Cotton found a can of the old farmer's orange paint, she used it to paint herself like them. When her mommy and sisters found her they started laughing. 
+
+"What are you doing, Cotton?!" 
+
+"I only wanted to be more like you". 
+
+Cotton's mommy rubbed her face on Cotton's and said "Oh Cotton, but your fur is so pretty and special, like you. We would never want you to be any other way". And with that, Cotton's mommy picked her up and dropped her into a big bucket of water. When Cotton came out she was herself again. Her sisters licked her face until Cotton's fur was all all dry. 
+
+"Don't ever do that again, Cotton!" they all cried. "Next time you might mess up that pretty white fur of yours and we wouldn't want that!"
+
+Then Cotton thought, "I change my mind. I like being special".
+
+1: one: What color was Cotton's fur?
+ A) orange and white striped
+ B) black
+ C) White
+ D) brown
+
+2: multiple: What made Cotton sad?
+ A) That she couldn't paint herself orange and white
+ B) That her sister laughed at her
+ C) That her fur was a different color than her family's
+ D) That her Mommy dropped her in to a bucket of water
+
+3: multiple: What did Cotton do to herself that made her mommy and sisters laugh?
+ A) She painted herself black and blue
+ B) She painted herself orange and white
+ C) She painted green stripes on herself
+ D) She painted herself pink and purple
+
+4: one: Who also lived in the barn with Cotton and her family?
+ A) a bird family
+ B) horses
+ C) a spider
+ D) the farmer
+
+
+***************************************************
+Story:            mc160.test.42
+Author:           1054081048
+Work Time(s):     6354
+
+The Rover family goes to the park for a wonderful picnic. The Rovers are a family of dogs. Mommy Rover packs a lunch which includes lots of doggie treats like dog bones and chew sticks. Daddy Rover brings the dog toys - an old Frisbee and a shoe that can be used for some fun activities - so their puppies, Paulie and Lucky, have games to play. It is a bright sunny day at the dog park. Lots of other doggie families are also at the park enjoying the nice weather. The Rovers see their friends, the Fidos, and invite them to join them for lunch. The two families eat and play together. Afterwards, it's nap time for the pups.  The adult dogs clean up the leftover food. They pack the extra food in doggie bags - and pack their baskets and head home. The day was a lot of fun for all the dogs. Next week they plan to go to the beach and they might invite the Fidos to join them again.
+
+1: multiple: What did Daddy Rover bring with them for the day?
+ A) a bouncy ball and a baseball bat
+ B) an umbrella and a sand bucket
+ C) bones, chew sticks, a frisbee and a shoe
+ D) a wagon and suntan lotion
+
+2: one: Who did the Rovers meet during the day?
+ A) their best friend Paulie
+ B) their friends from work
+ C) their neighbors, the Fidos
+ D) a family of cats
+
+3: multiple: What does the Rover family bring home at the end of the day?
+ A) shells from the beach
+ B) a sand castle in a wagon
+ C) leftover food in doggie bags
+ D) gifts from the hotel shop
+
+4: one: Where does the Rover family go for the day?
+ A) to a dog hotel
+ B) to the movies
+ C) to the dog park
+ D) to the beach
+
+
+***************************************************
+Story:            mc160.test.43
+Author:           552742435
+Work Time(s):     1504
+
+The king, Banton, stood over his men who were tired from fighting. The dragons were not as tired as the men. He could not let any more pain happen to his men. He ordered the men to run away. The men went to the village. "Everyone must run for the hills." 
+
+Charlie, the purple dragon let out a roar, and sent fire into the sky from his mouth. "That's right! Run little man! Run!" Luna and Milkyway, the grey and black dragons, cheered and celebrated the win. The dragons went to the river and started eating berries, and fruits. "Now we celebrate! We have what we want! Now we won't be hungry anymore!" Charlie cheered. "Good things are sure to come from this win over the humans!"
+
+Luna, not so sure, watched the humans running for their lives.
+
+The villagers could only watch the dragons take food from their land, afraid. They went to pack their things. They would need to leave with the king, and his men. There would be no soldiers to protect them from the dragons. Men, women, and children all ran around in confusion trying to get away. Before long, the village was vacated. It was okay; the villagers found a new home in the hills.
+
+1: one: What is the purple dragon's name?
+ A) Luna
+ B) Charlie
+ C) Banton
+ D) Milkyway
+
+2: one: What's the king's name?
+ A) Luna
+ B) Milkyway
+ C) Banton
+ D) Charlie
+
+3: multiple: Why did the men go to the village?
+ A) They were running from the fighting and needed their things.
+ B) To make food for The Dragons.
+ C) They were getting sleepy and needed sleep.
+ D) The villagers found new homes in the hills.
+
+4: multiple: Why did the villagers pack their things?
+ A) To give their homes to the Dragons.
+ B) In hopes of new homes.
+ C) They found new homes in the Hills.
+ D) To leave the village with the King, and his men.
+
+
+***************************************************
+Story:            mc160.test.44
+Author:           2878942818
+Work Time(s):     2610
+
+One morning, Justin woke up very excited. He was excited because it was his birthday. He went downstairs to eat breakfast. 
+
+When he got downstairs his mom said, "Happy Birthday."
+
+"Thank you!" Justin said. "Am I going to have lots of presents?" he asked his mom. 
+
+"Yes, Justin. When your friends come over for your birthday party you'll get lots!"
+
+"Hooray!" Justin said, eating his breakfast. 
+
+Later that day, Justin's friends came over for his birthday party, and they brought over lots of presents. 
+
+They ate cake and ice cream. They played games like tag and played with a football. 
+
+After they were done playing Justin got to open his presents. He saw lots of presents. Red ones, blue ones, tall ones, round ones. 
+
+"Thank you!" Justin said, as he started to open his presents. He got a basketball, a robot toy, a new bike and some super hero toys!
+
+After all of Justin's friends left, Justin fell asleep very fast because of the exciting day he had and he was happy he got all of those nice things.
+
+1: multiple: Who did Justin talk to when he went downstairs?
+ A) Sister
+ B) Neighbor
+ C) Mom
+ D) Dad
+
+2: one: Why was Justin excited to wake up?
+ A) Cartoons
+ B) First day of school
+ C) Birthday
+ D) Christmas
+
+3: multiple: What was one of the games Justin played with his Friends?
+ A) Soccer
+ B) Hide and seek
+ C) Tag
+ D) Tennis
+
+4: one: What was one of the presents Justin got?
+ A) Football
+ B) Basketball
+ C) Books
+ D) Clothes
+
+
+***************************************************
+Story:            mc160.test.45
+Author:           1779106223
+Work Time(s):     3026
+
+My puppy is a boy puppy. His name is Snow. He is white like snow. Snow has a dog house. It is blue. Snow likes his dog house. He sleeps in it at night. 
+
+If Snow is hungry I feed him puppy food. I also give Snow water. 
+
+Snow is a good puppy. He does what I tell him to do. Snow likes to play with our cat, His name is Oscar. They share toys. Snow and Oscar watch my goldfish, Felix. Felix swims round and round in his bowl. 
+
+My neighbor Tommy lives next door. He has a fish, too. Its name is Rocket. That is because he swims very, very fast. Rocket is black. Tommy likes to climb in trees. He also likes to play tag. 
+
+I teach Snow tricks. He loves to learn to do tricks. When he does them well I give him a prize! Snow loves to get a prize. It is a tasty puppy treat!
+
+When I come home from school.  Snow meets me at the door. He is so happy to see me. I am happy to see him, too!
+
+After I finish my homework we play ball outside. Snow loves to run after the red ball. He brings it back to me each time I throw it. I love to play ball with Snow. It is so much fun. 
+
+I love Snow and Snow loves me. We are best friends.
+
+1: one: What color is the ball?
+ A) Red
+ B) Black
+ C) Gold
+ D) Blue
+
+2: multiple: Who is Oscar?
+ A) Neighbor
+ B) Cat
+ C) Goldfish
+ D) Puppy
+
+3: multiple: What games does Tommy like to play?
+ A) Tag
+ B) Swim
+ C) Tricks
+ D) Ball
+
+4: one: Where does Snow meet me?
+ A) Dog House
+ B) Door
+ C) Tree
+ D) School
+
+
+***************************************************
+Story:            mc160.test.46
+Author:           3073269945
+Work Time(s):     1723
+
+Once upon a time, there was a giraffe named Scoop. He was a very friendly giraffe and he was cute, too. He had beautiful orange and yellow markings and he loved to play with his friends, but Scoop had a problem. His neck was really short, so he could not reach the tall plants and his mommy and daddy had to get all of his food for him.
+
+One day, Scoop's friend Scap, invited him over for a sleepover party. It sounded like so much fun, but Scoop was too embarrassed. He didn't want everyone to laugh at him at feeding time when he couldn't reach the food by himself, so he said he could not come to the party
+
+Scap was a really good friend and he knew that Scoop wanted to come to the party, so he came up with a plan.
+
+That afternoon, Scap gathered all the little giraffes in the neighborhood and they spent the day together collecting food. They then went to Scoop's house and showed him all the food they had gathered for the party and once again invited him along. He happily said yes and they all had a wonderful time.
+
+1: one: Who invited Scoop to the party?
+ A) Scap
+ B) his mom
+ C) his dad
+ D) his sister
+
+2: one: What kind of animal was Scoop?
+ A) gorilla
+ B) dog
+ C) cat
+ D) giraffe
+
+3: multiple: Did Scoop go to the party?
+ A) yes
+ B) There was no party.
+ C) He went to the movies.
+ D) no
+
+4: multiple: Why was Scoop embarrassed to go the the party?
+ A) He was missing a leg.
+ B) His neck was very short.
+ C) He didn't have any spots.
+ D) He was a donkey.
+
+
+***************************************************
+Story:            mc160.test.47
+Author:           3033165250
+Work Time(s):     4692
+
+On a sunny day in July, Sylvia left the front gate open. From the spot where Rex was napping in the grassy yard, he had listened to the sound of the gate sliding open, and waited for it to snap shut. It didn't. The click of Sylvia's shoes faded into the distance, and yet the snap of the shutting gate didn't come. Finally, Rex pushed himself up on one paw so he could look towards the front of the yard, where the gate moved in the breeze. Rex moved slowly towards the gate at first, but as he neared the sidewalk he shot through the opening, his shiny black fur twinkling in the sun as he sped down the street. Rex ran from block to block through the neighborhood, with no leash to pull him back. When all four legs started to burn from running, Rex slowed down and started sniffing the grass around him. His stomach growled and he hoped he'd find some food in the grass. All he found was sidewalk chalk, a few little black ants, and flowers that made him sneeze. The sun was going down, and Rex thought about Sylvia coming home to rub his ears and fill his food bowl. He looked up and down the sidewalk for his home. Nothing. Rex was lost. He stood completely still and raised his ears as high as they would go. He sat and listened, and listened and sat. Just as the sun passed over the mountains in the distance, Rex heard, from very far away, the soft "click click click" of Sylvia walking towards the house. Rex ran home.
+
+1: one: What is Rex looking forward to about going home?
+ A) Sylvia rubbing his ears and feeding him.
+ B) Going to sleep.
+ C) Digging a hole in the yard.
+ D) Sylvia taking him for a walk.
+
+2: one: Why does Rex stop running after he escapes?
+ A) He gets bored.
+ B) His legs get tired.
+ C) He gets lost.
+ D) He gets hungry.
+
+3: multiple: Who does Rex live with?
+ A) Sylvia
+ B) Fido
+ C) Bob
+ D) Cathy
+
+4: multiple: How does Rex escape the yard?
+ A) He digs a hole under the fence.
+ B) He jumps over the gate.
+ C) A neighbor lets him out.
+ D) Sylvia leaves the gate open.
+
+
+***************************************************
+Story:            mc160.test.48
+Author:           691536191
+Work Time(s):     1432
+
+When Sophie woke up that morning, she had no idea where her day was going to take her. She rolled out of bed, turned off her alarm and stretched. She wasn't feeling like herself that morning, but she wasn't sure why. Sophie thought to herself, "I slept well, I ate good food yesterday, and yet I still felt strange". Sophie stepped into the shower feeling so tired. As she toweled herself off and got dressed, she felt like she was moving very slowly. She went to the kitchen and poured herself a glass of orange juice, got a bowl out of the cabinet and filled it with cereal. As Sophie sat at the table to eat her breakfast, she remembered why she wasn't feeling like herself. She remembered that she didn't exercise the day before. She had spent much of the day sitting in front of her television and playing games. Sophie knew that on days that she didn't exercise, she always felt bad the next day. Sophie thought for a second, and then looked at the clock. She had time to do some jumping jacks and run outside around her house before she had to leave for the day. She put on her running shoes and went out the front door. After only a quick bit of exercise, Sophie was feeling much better. She promised herself that she would never forget to exercise again.
+
+1: multiple: What kind of exercises did Sophie do?
+ A) Jumping jacks and running.
+ B) Stretching when she got out of bed.
+ C) Sophie didn't exercise because she didn't have time.
+ D) Sitting in front of her television and playing games.
+
+2: multiple: What did Sophie have for breakfast?
+ A) Sophie had orange juice and oatmeal.
+ B) Sophie had apple juice and cereal.
+ C) Sophie had orange juice and eggs.
+ D) Sophie had orange juice and cereal.
+
+3: one: What was the first thing Sophie did after she got dressed?
+ A) She poured herself orange juice.
+ B) She put on her running shoes.
+ C) She went to the kitchen.
+ D) She thought for a second and then looked at the clock.
+
+4: one: Why did Sophie feel strange that morning?
+ A) Because she ate bad food the day before.
+ B) Because she drank orange juice.
+ C) Because she forgot to exercise.
+ D) Because she didn't sleep well.
+
+
+***************************************************
+Story:            mc160.test.49
+Author:           534571148
+Work Time(s):     2817
+
+One day 3 friends went to a pool party that they had been excited about for a long time. The girl and her brother, who were having the party, had been planning the party for a few weeks. They had invited about 20 friends and today was the big day. The pool was decorated with balloons and there were party favors on the tables. There was also soda, cake and other snacks for everyone to enjoy. The party got started and everyone was having a very good time. They were swimming and playing and laughing. The best part of the party is when they played games in the pool that the girl's mom had come up with to keep the party interesting. At the end of the day, everyone went home and all that was left was to clean up the pool area. It was a wonderful party and all the kids were looking forward to the next time they could go to another pool party.
+
+1: multiple: What did they eat at the party and what was the best part?
+ A) cake and snacks and when the clown arrived
+ B) hotdogs and when the played pool games
+ C) Cake and Snacks, and played pool games.
+ D) hamburgers and when they used the floats
+
+2: one: How many friends were invited to the party?
+ A) 25
+ B) About 3
+ C) About 20
+ D) Only 5
+
+3: one: Who was having the party?
+ A) A girl and her brother
+ B) A girl and her sister
+ C) 3 friends from school
+ D) Two teachers from school
+
+4: multiple: What was the last thing to do after the party, and what did the kids look forward too?
+ A) drive everyone home, and the next pool party
+ B) clean up and the next pool race
+ C) clean up, and the next school dance
+ D) clean up, and the next pool party
+
+
+***************************************************
+Story:            mc160.test.50
+Author:           3638994496
+Work Time(s):     1665
+
+David likes to fish.  He uses his new fishing pole.  It is blue and green in color.  He got it for his birthday.  It was his favorite present. He fishes at the pond with his dad.  He fishes at the river with his uncle.  He also sometimes fishes at the lake with his grandpa.  He goes fishing every day he can.  Last Saturday, he caught three catfish at the lake.  His grandpa did not catch any fish that day.  David did better than him and he was happy.  Someday he wants to go fishing in the ocean.  He hopes someone takes him there.  He dreams about it all the time.  He knows he would catch many huge fish in the ocean.  He can't wait until he is older.  This way he can go fishing anytime he wants to.  He wants to buy his own fishing boat. He wants a big yellow boat.  Tonight, David can't sleep. He is so excited.  His dad told him he can take him fishing tomorrow.  He thinks about all the fish he is going to catch.
+
+1: one: How many catfish did David catch last Saturday?
+ A) one
+ B) two
+ C) ten
+ D) three
+
+2: multiple: What is blue and green in color?
+ A) fishing pole
+ B) boat
+ C) catfish
+ D) birthday cake
+
+3: one: Who takes David to fish at the river?
+ A) his grandpa
+ B) his dad
+ C) his uncle
+ D) his brother
+
+4: multiple: Why can't David sleep tonight?
+ A) His grandpa is taking him to the lake.
+ B) He can buy a boat tomorrow.
+ C) His dad is taking him fishing tomorrow.
+ D) He is going to the ocean.
+
+
+***************************************************
+Story:            mc160.test.51
+Author:           3317108882
+Work Time(s):     2926
+
+When I was a little boy, I could remember my mom making breakfast and dinner for us. And I remember one night, when she had made dinner after a long, hard day at work. On that evening, my mom placed a plate of vegetables, salad and burned chicken breast in front of my dad. I remember waiting to see if anyone saw, yet all my dad did was to reach for his chicken breast, smile at mom and ask me how my day was at school. I don't remember what I told him that night, but I do remember watching him drop hot sauce on that chicken breast and eat every bite.
+
+When I got up from the table that evening, I remember hearing my mom apologize to my dad for burning the chicken breast. I'll never forget what he said. "Dear, I love burnt chicken breast."
+
+Later that night, I went to kiss daddy good night and I asked him if he really liked his chicken breast burnt. He put his arms around me and said "Dear, your momma put in a hard day at work today and she's real tired and a little burnt chicken breast never hurt anyone."
+
+1: multiple: Who went to kiss dad good night?
+ A) mom
+ B) chicken breast
+ C) little boy
+ D) salad
+
+2: multiple: What did dad put on chicken breast?
+ A) vegetables
+ B) salad
+ C) hot sauce
+ D) nothing
+
+3: one: Who cooked chicken breast?
+ A) mom
+ B) cook
+ C) dad
+ D) little boy
+
+4: one: What did dad say to mom when she apologized?
+ A) Give me something else to eat
+ B) I love you
+ C) You don't know how to cook
+ D) Dear, I love burnt chicken breast.
+
+
+***************************************************
+Story:            mc160.test.52
+Author:           1028551157
+Work Time(s):     2009
+
+Tony was riding his bike home from school.  Then he saw Cindy riding her bike in front of him.  
+
+Tony yelled, "Hey, Cindy!"  Then he rode faster to catch up with her. 
+
+Cindy said, "Tony! Hey!  Where are you going?"
+
+"I'm going to the empty lot on Maple Street to ride my bike.  The other kids are going to be there.  Do you want to come?"
+
+"Sure," said Cindy.
+
+Tony and Cindy rode to Maple Street, to the empty lot.  The empty lot did not have a house on it.  Instead, it had big hills of dirt, and it had trees cut down on the ground.  There was a low part that became a pond after it rained.  The lot had been empty for a couple of years, because times were bad and the builder couldn't find a buyer for another house.  The kids had ridden their bikes over the hills of dirt, around the cut trees, and through the muddy pond. There were bike trails all over the empty lot.  There were even places where the kids could jump their bikes.  
+
+There were three other children riding their bikes at the empty lot when Tony and Cindy arrived: Lana, Billy and Chris. 
+
+Cindy said, "I am calling my mom to let her know that I'm here."  
+
+Tony said, "That's a good idea.  Can I use your phone when you're done?"
+
+Cindy said "Sure!  Keep it for now.  I'm going to go on the jump path.  I was scared to try it last time.  I don't want to break my phone if I fall.  I'm leaving my backpack here, too."
+
+"Okay." said Tony.  "I'll watch.  You'll do good."
+
+1: one: Why did Cindy leave her phone with Tony?
+ A) It was too heavy
+ B) It was old
+ C) She didn't want to break it
+ D) It was in her backpack
+
+2: one: Which kids were riding their bikes at the empty lot when Tony and Cindy got there?
+ A) Tony and Cindy
+ B) Billy, Chris and Lana
+ C) Lana, Cindy and Billy
+ D) Just Chris
+
+3: multiple: When Tony saw Cindy riding her bike, she was most likely
+ A) On her way to a softball team practice
+ B) On her way home from school
+ C) On her way to the store for milk
+ D) Going for a weekend ride
+
+4: multiple: Will Cindy's mom let her ride her bike at the empty lot?
+ A) No
+ B) Yes
+ C) Only if Cindy doesn't try to jump her bike
+ D) You can't tell from the story
+
+
+***************************************************
+Story:            mc160.test.53
+Author:           1874242980
+Work Time(s):     3550
+
+Jamal made his mommy a special card for her birthday.  When he gave it to her, she smiled and said that it was beautiful.  His dad also gave her a card, but she did not smile the same way.  Mommy didn't look mad, but Jamal knew that she was disappointed.  
+
+The next day, Jamal's dad drove him to school.  Jamal said "Daddy, did Mommy not like your birthday card?"  
+
+Jamal's dad said, "Well, son, sometimes I don't know what your mother likes.  I could have asked her or thought of something better."  
+
+Before Jamal got out of the car, he asked his dad, "Can we go to get ice cream after you pick me up from school?"  
+
+"Sure, that sounds good to me," said Jamal's dad.
+
+After school, Jamal and his dad went to the ice cream shop. Jamal said, "Now we can get Mommy the present!"  
+
+Jamal's dad said, "What present?  Did you have a secret plan?"  
+
+Jamal giggled and ran to the plant store nearby.  Jamal remembered that when Mommy took him to his grandma's house, she told Grandma that she always wanted to have a lily plant.  They found a lily plant in the store.  The woman who worked at the store asked, "Do you want to put this in a pot?"  
+
+Jamal's dad told Jamal, "Let's get the yellow pot, because that's Mommy's favorite color."  
+
+When they got home, Jamal's mommy came out of the kitchen.  She saw the lily in the bright yellow pot on the table.  Jamal saw her smile, only this time it was the same smile he saw when he gave her the card.  Jamal smiled too because he knew that Daddy made her very happy.
+
+1: one: What did Mommy think of Jamal's birthday card?
+ A) She thought it was beautiful.
+ B) She thought it was funny.
+ C) She thought it was ugly.
+ D) She thought it was too small.
+
+2: multiple: Why did Jamal ask his daddy to get ice cream after school?
+ A) Mommy likes chocolate ice cream.
+ B) The ice cream store had Jamal's favorite flavor.
+ C) It was Jamal's birthday.
+ D) The ice cream store was next to the plant store.
+
+3: one: What did Jamal's Mommy always want to have?
+ A) A Big Kitchen
+ B) A Pot
+ C) A Lily Plant
+ D) Ice Cream
+
+4: multiple: Why would Mommy smile at Daddy for putting the plant in the pot that he chose?
+ A) It had a picture on it that she liked.
+ B) It was dirty.
+ C) He put it in the wrong way.
+ D) It was Mommy's favorite color
+
+
+***************************************************
+Story:            mc160.test.54
+Author:           452743917
+Work Time(s):     1405
+
+A bunny named Mandy lived in a small forest outside of the city. Mandy lived with her mother, father, three sisters and two brothers under a huge old tree. They had lived there a long time and there was lots of food close to the home. Their favorite foods were carrots and lettuce which grew at the farm next to their home. She had some friends that were birds. They were robins. She did not like the unfriendly black birds. They were loud and would take her food if they could. She loved to play tag with her brothers and sisters and their friend Rocky. He was a squirrel. The creek had a waterfall, it was fun to play around. They would go to the creek for fresh water and sometimes to take a bath. When the frogs made noise the bunnies would laugh. They thought it was such a funny sound. When the bunnies found some wild strawberries they ate them. They thought they were great, but they did not care for the blueberries. There were a lot of big rocks that they played on and around.
+
+1: one: Where did Mandy and her family live?
+ A) Under a rock.
+ B) Under a waterfall.
+ C) Under the blue berry bush.
+ D) Under a huge tree.
+
+2: one: What berry did they like to eat?
+ A) Lettuce was great.
+ B) Carrots were great.
+ C) blueberries were great
+ D) strawberries were great
+
+3: multiple: What kind of animal is their friend Rocky?
+ A) Rocky was a bunny.
+ B) Rocky was a squirrel
+ C) Rocky was a black bird.
+ D) Rocky was a robin.
+
+4: multiple: What kind of birds were their friends?
+ A) They were blue birds.
+ B) They were robins.
+ C) There were no birds.
+ D) They were blackbirds.
+
+
+***************************************************
+Story:            mc160.test.55
+Author:           3968165106
+Work Time(s):     14315
+
+Tasha and Hassan went to their grandma's house. They were going to stay there for two days. Tasha was happy because she likes to play with the farm animals. She wanted to milk the cow. She also wanted to play with the baby pig. Hassan wanted to stay in the house and bake sugar cookies. He also wanted to make fresh cocoa. When Hassan started to make the cookies he saw that there was no milk in the fridge to make the cookies and cocoa. He walked outside and asked Tasha to fill up the bucket with fresh milk from the cow. Hassan used the milk to make the cookies and hot cocoa. Tasha and Hassan shared the cookies with their grandma. They ate all of the cookies and drank the hot cocoa in front of the TV. Their grandma promised to make them apple pie the next morning. She had picked a basket full of apples the day before.
+
+1: one: When did Grandma promise to make apple pie?
+ A) next week
+ B) in two days
+ C) the next morning
+ D) when they returned home
+
+2: multiple: Where did Tasha and Hassan for two days?
+ A) Grandma's house
+ B) on a camping trip
+ C) to school
+ D) to their aunt's job
+
+3: one: What did Tasha use to put the fresh milk in from the cow?
+ A) a cup
+ B) a bowl
+ C) a jug
+ D) a bucket
+
+4: multiple: What happened to the sugar cookies and hot cocoa?
+ A) gave them to the animals
+ B) They all ate it in front of the tv
+ C) they threw they away
+ D) put them in the fridge
+
+
+***************************************************
+Story:            mc160.test.56
+Author:           3302390925
+Work Time(s):     1818
+
+Anna really likes school. She does well in school and gets good grades. Anna's favorite class time activities are reading, math, and writing. She also enjoys playing with her friends at recess. Anna has a lot of friends in her class.
+Anna's favorite books to read are mysteries. She has read several Nancy Drew books which are about a young woman who solves exciting mysteries. Anna also likes to read comic books. She tries not to read comic books in class because they often make her laugh out loud. Laughing very loud during quiet reading time could get her into trouble!
+When playing at recess, Anna likes to make up new games to play. She and her friend Lily enjoy playing games like tag, where you run around chasing after each other. Their games are different than tag because when you tag the other player you call out a math question they have to answer to become "It". Anna always tries to play active games; it makes recess much more fun for her. Sometimes, if the balls are out, she plays soccer with some of her friends. Soccer always makes her very tired. Anna really enjoys playing during recess as it helps her to be ready to work hard in class.
+
+1: multiple: What games does Anna like to play during recess?
+ A) Duck, duck, goose.
+ B) Tether ball.
+ C) Dodge ball.
+ D) Tag, soccer and active games.
+
+2: one: What are Anna's favorite class time activities?
+ A) Science, vocabulary and spelling.
+ B) Math and history.
+ C) History and math.
+ D) Reading, math and writing.
+
+3: multiple: What are Anna's favorite kind of books to read?
+ A) Mystery and comic books.
+ B) History books.
+ C) Sports books.
+ D) Romance and adventure books.
+
+4: multiple: Why doesn't Anna like to read comic books in class?
+ A) They make her laugh out loud, which could get her into trouble.
+ B) She is not allowed to read comic books in school.
+ C) She only likes to read them before bed.
+ D) She does not like comic books.
+
+
+***************************************************
+Story:            mc160.test.57
+Author:           1297199038
+Work Time(s):     4643
+
+Penelope kissed her hamster named Cracker. She waved goodbye to her brother, Jacob. Penelope ran out the door. Penelope's neighbor, Mrs. Flower, said she would make banana pancakes for Penelope for breakfast. Penelope could also play with Mrs. Flower's new puppy, Cookie. Penelope saw a bowl with green beans, beets, and carrots from the store on the kitchen table.  Yuck, thought Penelope.  Penelope liked the new puppy.  Cookie had a funny smile. Mrs. Flower gave Penelope a box of toys and told her to take Cookie to the backyard. Penelope was busy looking at the green tomatoes.  She turned around and saw Cookie and Mr. Flower's cat, Thomas. Thomas and Cookie were playing with the toys. Thomas kicked a ball to Cookie and Cookie kicked the ball back. Cookie got a toy fish out the box. Thomas and Cookie played catch with the toy fish.  Penelope was laughing because she never saw a dog and cat play together.  Mrs. Flower came to the backyard.  She asked Penelope if she wanted yogurt, apple sauce or chocolate pudding with her breakfast. Penelope said she wanted yogurt. Penelope went inside and ate her breakfast with Mrs. Flower and Mr. Flower.
+
+1: one: What is the name of Mrs. Flower's  new puppy?
+ A) Cookie
+ B) Jacob
+ C) Cracker
+ D) Thomas
+
+2: multiple: What did Penelope do before going to Mrs. Flower's house for breakfast?
+ A) She saw green beans, beets, and carrots on her kitchen table.
+ B) She saw a dog and cat play together.
+ C) She had some yogurt for breakfast.
+ D) She kissed her hamster Cracker and waved goodbye to her brother, Jacob.
+
+3: multiple: What did Thomas and Cookie do in the backyard?
+ A) Thomas and Cookie kicked a ball and played catch with a toy fish.
+ B) Thomas and Cookie ate chocolate pudding and apple sauce.
+ C) Thomas and Cookie dug up carrots in the garden.
+ D) Thomas and Cookie ate green tomatoes from Mrs. Flower's garden.
+
+4: multiple: What did Penelope have with her banana pancakes at breakfast?
+ A) carrots
+ B) apple sauce
+ C) yogurt
+ D) chocolate pudding
+
+
+***************************************************
+Story:            mc160.test.58
+Author:           3927070015
+Work Time(s):     848
+
+Henry woke up one morning and looked out his window. To his surprise the ground was covered in white. He quickly ran downstairs and asked his mommy what the white stuff was. She told him with a smile that it was snow. Henry was not sure what snow was, but got excited when she told him that it meant that he did not have to go to school that day. Henry asked his mom if he could play in snow and she told him yes. She got him dressed in warm clothes and took him outside and taught him how to build a snowman. She also taught him how to sled down the small hill in their yard. Henry had so much fun that day he fell asleep early and had dreams about the fun white snow that fell that day hoping he could have fun the next day as well.
+
+1: multiple: What did Henry's mommy NOT do when he asked if he could play?
+ A) Dressed him in warm clothes
+ B) Taught him to build a snowman
+ C) Took him sledding
+ D) Took him to school
+
+2: one: Where did Henry not have to go?
+ A) School
+ B) The store
+ C) Mommy's Work
+ D) His room
+
+3: one: What did Henry's mom tell him the white stuff was?
+ A) Ice
+ B) Foam
+ C) Snow
+ D) Rain
+
+4: multiple: What did Henry's mom NOT teach him to do?
+ A) How to make snowmen
+ B) How to swim
+ C) How to dress in the snow
+ D) How to sled
+
+
+***************************************************
+Story:            mc160.test.59
+Author:           2816961476
+Work Time(s):     1611
+
+Logan had lots of toys. He had balls, dinosaurs, race cars, and even robots! Logan had so many toys he had a room for his toys. There he could play with whatever he wanted, when he wanted, and not even have to pick them back up. Logan had all kinds of balls. He had red ones, green ones, blue ones and even a pink one he hid from his sister. His robots were so cool they could change shape, fly, or race. Some even saved the world in his imagination. Logan loved his dinosaurs. He had one with big sharp teeth, one with little tiny arms, one with purple spots, and even one that his dad said didn't eat anything but plants and vegetables. Logan's favorite toys were his race cars. That was because when his dad came home from work he always went to the toy room with Logan to play with his race cars. Logan had so much fun he even lets his sister in his toy room so she can play dad too! The toy room was Logan's favorite room in the house. He spends all the time he can in his room with all his friends and family and he has so much fun.
+
+1: one: What color ball did Logan hide from his sister?
+ A) Red
+ B) Green
+ C) Pink
+ D) Blue
+
+2: multiple: Why was Logan's favorite toys his race cars?
+ A) because his friends played with them
+ B) because they were in his toy room
+ C) because he even let his sister play with them
+ D) Because his dad always played with them when he got home
+
+3: one: What was Logan's favorite toys?
+ A) balls
+ B) robots
+ C) Race cars
+ D) dinosaurs
+
+4: multiple: What could Logan's robots do in his imagination?
+ A) Save the world
+ B) change shape
+ C) fly
+ D) race
+
+
