@@ -5,6 +5,7 @@ import argparse
 import json
 import errno
 import os
+import struct
 import sys
 from base64 import urlsafe_b64decode as b64decode, \
     urlsafe_b64encode as b64encode
@@ -55,6 +56,15 @@ def row_to_dict(row, tokenize=None):
     }
 
 
+def datapoint_to_tokens(datapoint, include_answers=False):
+    tokens = datapoint['passage']
+    for question in datapoint['questions']:
+        tokens.extend(question['tokens'])
+        if include_answers:
+            for answer in datapoint['answers']:
+                tokens.extend(answer)
+    return ' '.join(map(lambda t: t.lower(), tokens))
+
 
 def datapoint_to_proto_as_words(datapoint):
     story = StoryAsWords()
@@ -104,16 +114,9 @@ def datapoint_to_proto_as_embeddings(datapoint):
     return story
 
 
-def tokens_to_embeddings(model, tokens):
-    embeds = []
-    for token in tokens:
-        try:
-            token = token.lower()
-            embeds.append(model[token])
-        except KeyError as e:
-            print('WARNING: "%s" missing from vocabulary.' % token,
-                  file=sys.stderr)
-    return embeds
+def length_prefix_proto(proto):
+    serialized = proto.SerializeToString()
+    return struct.pack('I', len(serialized)) + serialized
 
 
 if __name__ == '__main__':
@@ -122,7 +125,7 @@ if __name__ == '__main__':
     _arg = parser.add_argument
     _arg('-o', type=str, action='store', metavar='FORMAT',
          default=DEFAULT_OUTPUT_FORMAT,
-         help='Output format: json, proto, prototext (default=%s)' %
+         help='Output format: json, proto, proto_text, token_list (default=%s)' %
          DEFAULT_OUTPUT_FORMAT)
     _arg('--rm-stop', type=str, action='store', metavar='FILE',
          help='Remove stop words specified by file (one word per line).')
@@ -153,7 +156,7 @@ if __name__ == '__main__':
             try:
                 return embedding_model[token.lower()]
             except KeyError as e:
-                print('WARNING: "%s" missing from vocabulary.' % token,
+                print('WARNING: "%s" missing from vocabulary.' % token.lower(),
                       file=sys.stderr)
             return None
         token_mappers.append(to_embeddings)
@@ -174,19 +177,21 @@ if __name__ == '__main__':
         try:
             serialized = None
             if args.o == 'json':
-                serialized = json.dumps(datapoint)
-            elif args.o == 'proto' or args.o == 'prototext':
+                serialized = json.dumps(datapoint) + '\n'
+            elif args.o == 'proto' or args.o == 'proto_text':
                 proto = datapoint_to_proto_as_embeddings(datapoint) \
                         if as_embeddings else \
                            datapoint_to_proto_as_words(datapoint)
-                serialized = proto.SerializeToString() if args.o == 'proto' \
+                serialized = length_prefix_proto(proto) if args.o == 'proto' \
                              else text_format.MessageToString(proto)
+            elif args.o == 'token_list':
+                serialized = datapoint_to_tokens(datapoint) + ' '
             else:
                 print('Unknown output format "%s"' % args.o,
                       file=sys.stderr)
                 sys.exit(2)
             assert serialized
-            print(serialized, file=sys.stdout)
+            sys.stdout.write(serialized)
         except IOError as e:
             if e.errno == errno.EPIPE:
                 sys.exit(0)
