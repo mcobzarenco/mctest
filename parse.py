@@ -119,6 +119,21 @@ def length_prefix_proto(proto):
     return struct.pack('I', len(serialized)) + serialized
 
 
+def parse_proto_stream(stream, proto_type=StoryAsWords):
+    while True:
+        proto_size_bin = stream.read(4)
+        if len(proto_size_bin) != 4:
+            if len(proto_size_bin) == 0:
+                return
+            print('Invalid read: rubbish at the end of the file?',
+                  file=sys.stderr)
+            return
+        proto_size = struct.unpack_from('I', proto_size_bin)[0]
+        story = proto_type()
+        story.ParseFromString(stream.read(proto_size))
+        yield story
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description='Converts raw TSV files from the MCTest dataset')

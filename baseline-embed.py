@@ -15,6 +15,7 @@ from itertools import imap
 import numpy as np
 
 from mctest_pb2 import StoryAsEmbeddings, QuestionAsEmbeddings
+from parse import parse_proto_stream
 
 
 ANSWER_LETTER = ['A', 'B', 'C', 'D']
@@ -75,22 +76,6 @@ def tokens_to_embeddings(model, tokens):
     return embeds
 
 
-def read_stories(stream):
-    stories = []
-    while True:
-        proto_size_bin = stream.read(4)
-        if len(proto_size_bin) != 4:
-            if len(proto_size_bin) == 0:
-                return stories
-            print('Invalid read: rubbish at the end of the file?',
-                  file=sys.stderr)
-            return stories
-        proto_size = struct.unpack_from('I', proto_size_bin)[0]
-        story = StoryAsEmbeddings()
-        story.ParseFromString(stream.read(proto_size))
-        stories.append(story)
-
-
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
         description='Baseline models from the MCTest paper (sliding '
@@ -105,7 +90,7 @@ if __name__ == '__main__':
          'algorithm. By default it has the same length as the question.')
     args = parser.parse_args()
 
-    stories = read_stories(open(args.train, 'r'))
+    stories = list(parse_proto_stream(open(args.train, 'r'), StoryAsEmbeddings))
     print('[model]\nwindow_size = %s\n' % (args.window_size))
 
     sw = SlidingWindowEmbeddings(window_size=args.window_size)
